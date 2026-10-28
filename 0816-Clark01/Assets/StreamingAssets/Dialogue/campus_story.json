@@ -1,0 +1,456 @@
+{
+  "wantedItems": [
+    { "actorId": "scholar", "elementary": "english-book", "middle": "correction-tape", "high": "fountain-pen" },
+    { "actorId": "athlete", "elementary": "basketball", "middle": "basketball", "high": "coffee" },
+    { "actorId": "trend", "elementary": "spicy-gluten", "middle": "fidget-spinner", "high": "coffee" },
+    { "actorId": "anime", "elementary": "comics", "middle": "wood-turtle", "high": "handheld" }
+  ],
+  "beats": [
+    {
+      "id": "trend_intro",
+      "actorId": "trend",
+      "kind": "intro",
+      "lines": [
+        "Li Mei: On the {stageLabel} side, the snack shelf clears out in ten minutes at lunch. Today I only want \"{itemName}\".",
+        "Li Mei: Stock this one on the classroom shelf first. I'll come buy it myself later—don't hand it over here."
+      ],
+      "choices": [
+        {
+          "label": "Sure, I'll check the classroom",
+          "favorChange": 2,
+          "result": "Li Mei: Fine. Have \"{itemName}\" ready and I'll find you in the classroom. No payment here.\n[Quest: Get {itemName} for Li Mei]\n[Trend Favor +2]",
+          "requestWantedItem": true
+        },
+        {
+          "label": "Got it, I'll restock first",
+          "favorChange": 0,
+          "result": "Li Mei: Go. Don't swap in some other snack. I want \"{itemName}\".\n[Quest: Get {itemName} for Li Mei]",
+          "requestWantedItem": true
+        }
+      ]
+    },
+    {
+      "id": "scholar_intro",
+      "actorId": "scholar",
+      "kind": "intro",
+      "lines": [
+        "Lin Zhiyuan: I don't care about the cafeteria hype. On the {stageLabel} side, I only need \"{itemName}\".",
+        "Lin Zhiyuan: Just one item. Stock it in the classroom; I'll come buy it myself. Don't deliver at the library."
+      ],
+      "choices": [
+        {
+          "label": "Sure, I'll take a look",
+          "favorChange": 2,
+          "result": "Lin Zhiyuan: Go. As long as \"{itemName}\" is on the shelf, I'll inspect it in the classroom.\n[Quest: Get {itemName} for Lin Zhiyuan]\n[Scholar Favor +2]",
+          "requestWantedItem": true
+        },
+        {
+          "label": "I haven't stocked this yet",
+          "favorChange": 0,
+          "result": "Lin Zhiyuan: Then go restock. I won't give you the next set of materials until \"{itemName}\" is in.\n[Quest: Get {itemName} for Lin Zhiyuan]",
+          "requestWantedItem": true
+        }
+      ]
+    },
+    {
+      "id": "athlete_intro",
+      "actorId": "athlete",
+      "kind": "intro",
+      "lines": [
+        "Zhou Jin: Extra practice isn't over, and the team is short on \"{itemName}\" right now. Without it, training stops.",
+        "Zhou Jin: You're running the {stageLabel} stall—stock what we need on our side. No drop-offs on the field; I'll pick it up in the classroom."
+      ],
+      "choices": [
+        {
+          "label": "Sure, I'll check the classroom",
+          "favorChange": 2,
+          "result": "Zhou Jin: Deal. Put \"{itemName}\" in the classroom and I'll send someone to buy or trade for it.\n[Quest: Get {itemName} for Zhou Jin]\n[Athlete Favor +2]",
+          "requestWantedItem": true
+        },
+        {
+          "label": "I'll check the shelf first",
+          "favorChange": 0,
+          "result": "Zhou Jin: Hurry. An empty shelf means you never took the job. I need \"{itemName}\".\n[Quest: Get {itemName} for Zhou Jin]",
+          "requestWantedItem": true
+        }
+      ]
+    },
+    {
+      "id": "anime_intro",
+      "actorId": "anime",
+      "kind": "intro",
+      "lines": [
+        "Xia Cheng: Collectibles have to be seen in person. I'm asking for \"{itemName}\"—damaged, fake, or swapped substitutes don't count.",
+        "Xia Cheng: You're on the {stageLabel} track right now. Stock it in the classroom first; I'll come inspect the condition. No trades here."
+      ],
+      "choices": [
+        {
+          "label": "Sure, I'll take a look",
+          "favorChange": 2,
+          "result": "Xia Cheng: Go confirm. If \"{itemName}\" is on the shelf, I'll come inspect it in the classroom.\n[Quest: Get {itemName} for Xia Cheng]\n[Anime Favor +2]",
+          "requestWantedItem": true
+        },
+        {
+          "label": "Let me check if it's on the shelf",
+          "favorChange": 0,
+          "result": "Xia Cheng: Go confirm. If it's not there, restock. I'm waiting on \"{itemName}\".\n[Quest: Get {itemName} for Xia Cheng]",
+          "requestWantedItem": true
+        }
+      ]
+    },
+    {
+      "id": "scholar_quest_ready",
+      "actorId": "scholar",
+      "kind": "quest_ready",
+      "lines": [
+        "Lin Zhiyuan: As long as \"{itemName}\" is on the shelf, that's fine. I won't collect it here.",
+        "Lin Zhiyuan: I'll buy it in the classroom. Head back and watch the stall."
+      ],
+      "choices": [
+        {
+          "label": "Okay, I'll wait for you in the classroom",
+          "favorChange": 1,
+          "result": "Lin Zhiyuan: Go. Right quantity, usable—that's when this quest counts as done.\n[Stock ready—waiting for Lin Zhiyuan in the classroom]"
+        },
+        {
+          "label": "I'll count inventory again",
+          "favorChange": 0,
+          "result": "Lin Zhiyuan: Go confirm. I still need \"{itemName}\"."
+        }
+      ]
+    },
+    {
+      "id": "athlete_quest_ready",
+      "actorId": "athlete",
+      "kind": "quest_ready",
+      "lines": [
+        "Zhou Jin: The team is waiting on \"{itemName}\". No drop-offs on the field.",
+        "Zhou Jin: I'll buy or trade in the classroom. You go back first."
+      ],
+      "choices": [
+        {
+          "label": "Okay, I'll wait in the classroom",
+          "favorChange": 1,
+          "result": "Zhou Jin: When it's there, I'll take it. If anyone causes trouble or skips payment, use my name.\n[Stock ready—waiting for Zhou Jin in the classroom]"
+        },
+        {
+          "label": "I want to double-check one more time",
+          "favorChange": 0,
+          "result": "Zhou Jin: Go confirm. I still need \"{itemName}\"."
+        }
+      ]
+    },
+    {
+      "id": "trend_quest_ready",
+      "actorId": "trend",
+      "kind": "quest_ready",
+      "lines": [
+        "Li Mei: Lunch break is almost here. Once you've stocked \"{itemName}\", head back to the classroom.",
+        "Li Mei: I'll buy it myself. No checkout here."
+      ],
+      "choices": [
+        {
+          "label": "Sure, I'll check the classroom",
+          "favorChange": 1,
+          "result": "Li Mei: Go watch the stall. If it's right, I'll tip you off before the next trend hits.\n[Stock ready—waiting for Li Mei in the classroom]"
+        },
+        {
+          "label": "I'll head back and confirm again",
+          "favorChange": 0,
+          "result": "Li Mei: Confirm \"{itemName}\". Don't grab the wrong snack."
+        }
+      ]
+    },
+    {
+      "id": "anime_quest_ready",
+      "actorId": "anime",
+      "kind": "quest_ready",
+      "lines": [
+        "Xia Cheng: \"{itemName}\" on the shelf is enough. I won't handle it here.",
+        "Xia Cheng: I'll inspect the condition in the classroom. Pass that, and the display case storyline starts."
+      ],
+      "choices": [
+        {
+          "label": "Okay, I'll wait for you in the classroom",
+          "favorChange": 1,
+          "result": "Xia Cheng: Go. I'm only looking at \"{itemName}\".\n[Stock ready—waiting for Xia Cheng in the classroom]"
+        },
+        {
+          "label": "I'll check the condition again",
+          "favorChange": 0,
+          "result": "Xia Cheng: Go confirm. I'm only looking at \"{itemName}\"."
+        }
+      ]
+    },
+    {
+      "id": "scholar_quest_missing",
+      "actorId": "scholar",
+      "kind": "quest_missing",
+      "lines": [
+        "Lin Zhiyuan: Quest isn't done yet. I still need \"{itemName}\", not some other stationery.",
+        "Lin Zhiyuan: Restock in the classroom. I'll buy there later—not at the library."
+      ],
+      "choices": [
+        {
+          "label": "Sure, I'll take a look",
+          "favorChange": 0,
+          "result": "Lin Zhiyuan: Go. If \"{itemName}\" isn't on the shelf, I'm not coming."
+        },
+        {
+          "label": "I'll figure out where to get it",
+          "favorChange": 0,
+          "result": "Lin Zhiyuan: Restock or trade—either works. The target is still \"{itemName}\"."
+        }
+      ]
+    },
+    {
+      "id": "athlete_quest_missing",
+      "actorId": "athlete",
+      "kind": "quest_missing",
+      "lines": [
+        "Zhou Jin: Still short on \"{itemName}\". Training can't wait empty-handed.",
+        "Zhou Jin: Restock it in the classroom. Once it's there, I'll come myself."
+      ],
+      "choices": [
+        {
+          "label": "Sure, I'll check the classroom",
+          "favorChange": 0,
+          "result": "Zhou Jin: Hurry. The team needs \"{itemName}\"."
+        },
+        {
+          "label": "I'll check inventory again",
+          "favorChange": 0,
+          "result": "Zhou Jin: Once you've checked, put \"{itemName}\" on the shelf."
+        }
+      ]
+    },
+    {
+      "id": "trend_quest_missing",
+      "actorId": "trend",
+      "kind": "quest_missing",
+      "lines": [
+        "Li Mei: Still no \"{itemName}\". Lunch break won't wait for you.",
+        "Li Mei: Go restock. Don't grab the wrong thing. Once it's ready, I'll buy in the classroom."
+      ],
+      "choices": [
+        {
+          "label": "Sure, I'll take a look",
+          "favorChange": 0,
+          "result": "Li Mei: Restock \"{itemName}\". Just put it on the shelf."
+        },
+        {
+          "label": "I'll sell something else to raise cash first",
+          "favorChange": 0,
+          "result": "Li Mei: Fine. Once you've got the money, stock \"{itemName}\"."
+        }
+      ]
+    },
+    {
+      "id": "anime_quest_missing",
+      "actorId": "anime",
+      "kind": "quest_missing",
+      "lines": [
+        "Xia Cheng: Still haven't seen \"{itemName}\". A collection quest can't be all talk.",
+        "Xia Cheng: Restock or trade—either works—but it has to be this exact item in the classroom."
+      ],
+      "choices": [
+        {
+          "label": "Sure, I'll take a look",
+          "favorChange": 0,
+          "result": "Xia Cheng: Go. The target is \"{itemName}\"."
+        },
+        {
+          "label": "I'll double-check the shelf",
+          "favorChange": 0,
+          "result": "Xia Cheng: Check for \"{itemName}\". If it's not there, restock it."
+        }
+      ]
+    },
+    {
+      "id": "scholar_daily_waiting",
+      "actorId": "scholar",
+      "kind": "daily_waiting",
+      "lines": [
+        "Lin Zhiyuan: Still \"{itemName}\". You're on the {stageLabel} track—stock for this stage and don't worry about other grades.",
+        "Lin Zhiyuan: Once it's ready, I'll find you in the classroom to buy it. If it's not there, go restock."
+      ],
+      "choices": []
+    },
+    {
+      "id": "athlete_daily_waiting",
+      "actorId": "athlete",
+      "kind": "daily_waiting",
+      "lines": [
+        "Zhou Jin: Training schedule hasn't changed. Still short on \"{itemName}\".",
+        "Zhou Jin: Put it in the classroom. I'll come buy—don't make me come for nothing."
+      ],
+      "choices": []
+    },
+    {
+      "id": "trend_daily_waiting",
+      "actorId": "trend",
+      "kind": "daily_waiting",
+      "lines": [
+        "Li Mei: The trend is already spreading. You still haven't put \"{itemName}\" on the shelf.",
+        "Li Mei: Stock it in the classroom. I'll buy it myself—no checkout here."
+      ],
+      "choices": []
+    },
+    {
+      "id": "anime_daily_waiting",
+      "actorId": "anime",
+      "kind": "daily_waiting",
+      "lines": [
+        "Xia Cheng: Display standards haven't changed. Get \"{itemName}\" on the classroom shelf first.",
+        "Xia Cheng: I'll inspect the condition. Pass that, and we talk about the next piece."
+      ],
+      "choices": []
+    },
+    {
+      "id": "scholar_daily_done",
+      "actorId": "scholar",
+      "kind": "daily_done",
+      "lines": [
+        "Lin Zhiyuan: The last \"{itemName}\" is logged. For {stageLabel} compliant materials, I'll call out items from the list next.",
+        "Lin Zhiyuan: Keep the classroom shelf stocked for now—I'll tell you what's missing next."
+      ],
+      "choices": []
+    },
+    {
+      "id": "athlete_daily_done",
+      "actorId": "athlete",
+      "kind": "daily_done",
+      "lines": [
+        "Zhou Jin: Last delivery made it—training didn't stop. Keep showing up on time and we'll keep working together.",
+        "Zhou Jin: Anyone buying on the field side comes to you first."
+      ],
+      "choices": []
+    },
+    {
+      "id": "trend_daily_done",
+      "actorId": "trend",
+      "kind": "daily_done",
+      "lines": [
+        "Li Mei: The \"{itemName}\" wave is over. I won't spoil the next item too early—watch the shelf yourself.",
+        "Li Mei: Cafeteria traffic is still steady. Restock snacks when you're low."
+      ],
+      "choices": []
+    },
+    {
+      "id": "anime_daily_done",
+      "actorId": "anime",
+      "kind": "daily_done",
+      "lines": [
+        "Xia Cheng: \"{itemName}\" passed inspection. The collection line follows your current stage—it won't jump to another grade out of nowhere.",
+        "Xia Cheng: Keeping shelf-worthy pieces matters more than pushing one extra piece of junk."
+      ],
+      "choices": []
+    },
+    {
+      "id": "scholar_daily_idle",
+      "actorId": "scholar",
+      "kind": "daily_idle",
+      "lines": [
+        "Lin Zhiyuan: No new list today. In the {stageLabel} classroom, stationery and textbooks are still the main demand.",
+        "Lin Zhiyuan: Get everything usable onto the shelf first."
+      ],
+      "choices": []
+    },
+    {
+      "id": "athlete_daily_idle",
+      "actorId": "athlete",
+      "kind": "daily_idle",
+      "lines": [
+        "Zhou Jin: Same training schedule today. Don't let supplies run out—don't short the team on gear.",
+        "Zhou Jin: If you've got stock, wait in the classroom—the team will come."
+      ],
+      "choices": []
+    },
+    {
+      "id": "trend_daily_idle",
+      "actorId": "trend",
+      "kind": "daily_idle",
+      "lines": [
+        "Li Mei: On the {stageLabel} side, snacks still move fastest at lunch. Restock when the shelf empties—don't wait for me to remind you.",
+        "Li Mei: When something new is hot, I'll call it out by name."
+      ],
+      "choices": []
+    },
+    {
+      "id": "anime_daily_idle",
+      "actorId": "anime",
+      "kind": "daily_idle",
+      "lines": [
+        "Xia Cheng: Today is about preservation only. Sell collectibles carelessly and I won't take them next time.",
+        "Xia Cheng: Take care of what you've already got first."
+      ],
+      "choices": []
+    },
+    {
+      "id": "ending_scholar",
+      "actorId": "scholar",
+      "kind": "finale",
+      "lines": [
+        "Lin Zhiyuan: {trust}",
+        "Lin Zhiyuan: You're still on the {stageLabel} track. The honor-student path runs on compliant materials like \"{itemName}\"—not on jumping to another grade."
+      ],
+      "choices": [
+        {
+          "label": "Note the honor-student path",
+          "favorChange": 0,
+          "result": "[Ending preview: Honor Student] Keep {stageLabel} deliveries steady and the shop becomes the most trusted corner on campus."
+        }
+      ]
+    },
+    {
+      "id": "ending_athlete",
+      "actorId": "athlete",
+      "kind": "finale",
+      "lines": [
+        "Zhou Jin: {trust}",
+        "Zhou Jin: The field path stops at your current {stageLabel}. Foot traffic and trust both depend on whether you can keep \"{itemName}\" coming."
+      ],
+      "choices": [
+        {
+          "label": "Note the field path",
+          "favorChange": 0,
+          "result": "[Ending preview: Field Boss] The {stageLabel} team trusts your stock—the field becomes the steadiest resupply point."
+        }
+      ]
+    },
+    {
+      "id": "ending_trend",
+      "actorId": "trend",
+      "kind": "finale",
+      "lines": [
+        "Li Mei: {trust}",
+        "Li Mei: The trend path plays out inside {stageLabel} too. Whoever stocks \"{itemName}\" first catches that lunch-break wave."
+      ],
+      "choices": [
+        {
+          "label": "Note the trend path",
+          "favorChange": 0,
+          "result": "[Ending preview: Campus Trendsetter] In {stageLabel}, you watch for called-out hits and become the stall ahead of the trend."
+        }
+      ]
+    },
+    {
+      "id": "ending_anime",
+      "actorId": "anime",
+      "kind": "finale",
+      "lines": [
+        "Xia Cheng: {trust}",
+        "Xia Cheng: The collection line follows your {stageLabel} identity. \"{itemName}\" was just the first inspection—not a pass to switch grades."
+      ],
+      "choices": [
+        {
+          "label": "Note the collector path",
+          "favorChange": 0,
+          "result": "[Ending preview: Master Collector] In {stageLabel}, preserve the requested pieces and the display case earns its light."
+        }
+      ]
+    }
+  ],
+  "trustEnough": "You've been delivering off the list these past few days.",
+  "trustNotEnough": "The list isn't complete yet, but you can see where this path leads."
+}
