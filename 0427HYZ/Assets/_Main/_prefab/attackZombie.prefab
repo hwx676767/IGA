@@ -1,0 +1,1247 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &344091820819927045
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 952123245049387214}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:LeftUpLeg
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &952123245049387214
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 344091820819927045}
+  m_LocalRotation: {x: 0.00017578424, y: -0.0075082215, z: 0.99997103, w: 0.0012521084}
+  m_LocalPosition: {x: -0.080384135, y: -0.05132446, z: -0.009952249}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 235845807440533776}
+  m_Father: {fileID: 8213529475418047326}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -13.4096775, y: -13.806918, z: 167.36873}
+--- !u!1 &411547851140118007
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3557163804767129149}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:LeftArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3557163804767129149
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 411547851140118007}
+  m_LocalRotation: {x: -0.11524776, y: 0.002421458, z: -0.019208774, w: 0.9931481}
+  m_LocalPosition: {x: -3.5527136e-17, y: 0.13201563, z: -2.842171e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 820294472775871713}
+  m_Father: {fileID: 5593818028759489909}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 50.15798, y: -40.322132, z: -40.324844}
+--- !u!1 &582642664297849713
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8175025630196326346}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:Spine1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8175025630196326346
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 582642664297849713}
+  m_LocalRotation: {x: -1.3877788e-17, y: -1.4447735e-13, z: 6.6800656e-13, w: 1}
+  m_LocalPosition: {x: -0, y: 0.108703166, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1780472387613767815}
+  m_Father: {fileID: 4183129537616297890}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.7056062, y: 0.83971566, z: -2.1267657}
+--- !u!1 &638225103868309474
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1551527410350832904}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:LeftToeBase
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1551527410350832904
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 638225103868309474}
+  m_LocalRotation: {x: 0.29948425, y: 0.021627694, z: -0.0067906617, w: 0.9538319}
+  m_LocalPosition: {x: -1.7763568e-17, y: 0.17187078, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 847378951028279319}
+  m_Father: {fileID: 8556644889712072491}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 32.94994, y: 2.310647, z: -0.20862342}
+--- !u!1 &881702357381417601
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9222258660050483347}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:HeadTop_End
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9222258660050483347
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 881702357381417601}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.21299607, z: 0.107027344}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 116853474379953652}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &928076287673444101
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5304946805839826263}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:RightShoulder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5304946805839826263
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 928076287673444101}
+  m_LocalRotation: {x: -0.54505414, y: -0.44624746, z: 0.56372046, w: -0.4312754}
+  m_LocalPosition: {x: 0.06420758, y: 0.12480062, z: -0.0021462096}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 412178490565187611}
+  m_Father: {fileID: 1780472387613767815}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 57.374245, y: -98.26204, z: 178.48618}
+--- !u!1 &966591193453314779
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8213529475418047326}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:Hips
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8213529475418047326
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 966591193453314779}
+  m_LocalRotation: {x: 0.00000051008345, y: 0.000000674889, z: -0.000024865101, w: 1}
+  m_LocalPosition: {x: 0.0000028109323, y: 1.0375546, z: 0.008495459}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 952123245049387214}
+  - {fileID: 2108861746892235386}
+  - {fileID: 4183129537616297890}
+  m_Father: {fileID: 4084286811915025726}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 2.533217, y: 23.708118, z: 1.6407118}
+--- !u!1 &1437865011818976626
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8398219168790734399}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:RightToe_End
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8398219168790734399
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1437865011818976626}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.068385564, z: 2.220446e-18}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4772013410134287093}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1495757348049007923
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 412178490565187611}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:RightArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &412178490565187611
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1495757348049007923}
+  m_LocalRotation: {x: -0.115555346, y: -0.0021177363, z: 0.017281374, w: 0.99314845}
+  m_LocalPosition: {x: -3.5527136e-17, y: 0.13201563, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2031072659336940949}
+  m_Father: {fileID: 5304946805839826263}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 41.13446, y: -0.6703466, z: 1.0630052}
+--- !u!1 &1572808871478833551
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4772013410134287093}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:RightToeBase
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4772013410134287093
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1572808871478833551}
+  m_LocalRotation: {x: 0.29764178, y: -0.021985494, z: 0.0068564597, w: 0.9543998}
+  m_LocalPosition: {x: 1.7763568e-17, y: 0.17280574, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8398219168790734399}
+  m_Father: {fileID: 1846301834978862179}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 34.49983, y: -2.6158006, z: 0.017899271}
+--- !u!1 &1637954768921615464
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8656738317939206084}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:LeftHand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8656738317939206084
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1637954768921615464}
+  m_LocalRotation: {x: -0.00000017614603, y: -0.000010788075, z: 0.00000012070795, w: 1}
+  m_LocalPosition: {x: -0, y: 0.24825427, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6407983535065194139}
+  m_Father: {fileID: 820294472775871713}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 7.070765, y: -8.770311, z: -17.661854}
+--- !u!1 &2309408200185036226
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4267967024229827483}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:LeftHandIndex2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4267967024229827483
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2309408200185036226}
+  m_LocalRotation: {x: 0.027840111, y: 0.0000001231024, z: -0.009582893, w: 0.9995665}
+  m_LocalPosition: {x: -0, y: 0.021045433, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7271499372298959281}
+  m_Father: {fileID: 6407983535065194139}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 20.339983, y: 0.97948265, z: 3.717868}
+--- !u!1 &2342666711154886871
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6407983535065194139}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:LeftHandIndex1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6407983535065194139
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2342666711154886871}
+  m_LocalRotation: {x: 0.0000000035913201, y: -0.00044098275, z: -0.0000004661981, w: 0.99999994}
+  m_LocalPosition: {x: -3.5527136e-17, y: 0.13152644, z: 2.842171e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4267967024229827483}
+  m_Father: {fileID: 8656738317939206084}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.4004683, y: -0.12250595, z: -3.6494346}
+--- !u!1 &2491187925355025615
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6518461588176440431}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:RightHandIndex4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6518461588176440431
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2491187925355025615}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.011611004, y: 0.028941445, z: 0.00054742605}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8130207205226175466}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2816524164585364467
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 778033070636686057}
+  - component: {fileID: 6159341625539817304}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:zombie
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &778033070636686057
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2816524164585364467}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4084286811915025726}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &6159341625539817304
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2816524164585364467}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 8e767fdc2dbeab04baa823c65dcf83a6, type: 2}
+  - {fileID: 2100000, guid: 852e926d791e08046bbbf99a95a5dd18, type: 2}
+  - {fileID: 2100000, guid: 025d39d8c1c514f41ae52afe4db7b816, type: 2}
+  - {fileID: 2100000, guid: 4d024f866efe08f488eb0facad4b77a4, type: 2}
+  - {fileID: 2100000, guid: f545436dff8c208418b35fd68f527a95, type: 2}
+  - {fileID: 2100000, guid: 1c77d0a6c151bab4e82ba9cfc703e0aa, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: -7626380677275843404, guid: e6b19e13906bc3042979150ff177779b, type: 3}
+  m_Bones:
+  - {fileID: 116853474379953652}
+  - {fileID: 5584639544695656117}
+  - {fileID: 8213529475418047326}
+  - {fileID: 4183129537616297890}
+  - {fileID: 8175025630196326346}
+  - {fileID: 952123245049387214}
+  - {fileID: 2108861746892235386}
+  - {fileID: 3557163804767129149}
+  - {fileID: 820294472775871713}
+  - {fileID: 8656738317939206084}
+  - {fileID: 5593818028759489909}
+  - {fileID: 1780472387613767815}
+  - {fileID: 6407983535065194139}
+  - {fileID: 3312944002123883777}
+  - {fileID: 769004350523098379}
+  - {fileID: 412178490565187611}
+  - {fileID: 2031072659336940949}
+  - {fileID: 5304946805839826263}
+  - {fileID: 5441692580709020188}
+  - {fileID: 4267967024229827483}
+  - {fileID: 7271499372298959281}
+  - {fileID: 8130207205226175466}
+  - {fileID: 235845807440533776}
+  - {fileID: 8556644889712072491}
+  - {fileID: 1551527410350832904}
+  - {fileID: 1555774934611611782}
+  - {fileID: 1846301834978862179}
+  - {fileID: 4772013410134287093}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 8213529475418047326}
+  m_AABB:
+    m_Center: {x: 0.010280937, y: -0.21479091, z: 0.015775412}
+    m_Extent: {x: 0.92078924, y: 0.9518498, z: 0.2667299}
+  m_DirtyAABB: 0
+--- !u!1 &2880693365941721465
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 235845807440533776}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:LeftLeg
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &235845807440533776
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2880693365941721465}
+  m_LocalRotation: {x: -0.013585283, y: -0.00002457272, z: 0.002441002, w: 0.99990475}
+  m_LocalPosition: {x: -0, y: 0.42236465, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8556644889712072491}
+  m_Father: {fileID: 952123245049387214}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -12.212962, y: 10.456865, z: -4.8900247}
+--- !u!1 &2968520870823128897
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8130207205226175466}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:RightHandIndex3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8130207205226175466
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2968520870823128897}
+  m_LocalRotation: {x: -0.037169933, y: 0.019214513, z: -0.22761706, w: 0.97285134}
+  m_LocalPosition: {x: 0.024937946, y: 0.022286909, z: -0.0021912528}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6518461588176440431}
+  m_Father: {fileID: 5441692580709020188}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 12.62291, y: -17.287003, z: -33.985424}
+--- !u!1 &3045825932721121432
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 820294472775871713}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:LeftForeArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &820294472775871713
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3045825932721121432}
+  m_LocalRotation: {x: -0.00000030818052, y: -0.00004928179, z: 0.0000002990472, w: 1}
+  m_LocalPosition: {x: -3.5527136e-17, y: 0.24867672, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8656738317939206084}
+  m_Father: {fileID: 3557163804767129149}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 1.2070097, y: -0.086600736, z: -7.5271554}
+--- !u!1 &3739568358198192004
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4084286811915025726}
+  - component: {fileID: 4550030123158857488}
+  - component: {fileID: 5376483857430393235}
+  m_Layer: 0
+  m_Name: attackZombie
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4084286811915025726
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3739568358198192004}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 2.5, y: 2.5, z: 2.5}
+  m_ConstrainProportionsScale: 1
+  m_Children:
+  - {fileID: 8213529475418047326}
+  - {fileID: 778033070636686057}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &4550030123158857488
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3739568358198192004}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 915a6e117a854ce4a98ae8934a6aa514, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &5376483857430393235
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3739568358198192004}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45870a427f79d3a48850f70669e8482a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetPosition: {x: 10, y: 0, z: -3.5}
+  standDuration: 1.5
+  attackType: 3
+  postAttackOffset: {x: -8, y: 0, z: -5}
+--- !u!1 &4811306876579119581
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2108861746892235386}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:RightUpLeg
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2108861746892235386
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4811306876579119581}
+  m_LocalRotation: {x: -0.00019594145, y: -0.0125202555, z: 0.9999208, w: -0.0013008459}
+  m_LocalPosition: {x: 0.080384135, y: -0.05132446, z: -0.0066535077}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1555774934611611782}
+  m_Father: {fileID: 8213529475418047326}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -14.464495, y: 7.786565, z: 179.24414}
+--- !u!1 &4904918587384198440
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5593818028759489909}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:LeftShoulder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5593818028759489909
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4904918587384198440}
+  m_LocalRotation: {x: 0.5438678, y: -0.4472214, z: 0.564616, w: 0.4305921}
+  m_LocalPosition: {x: -0.06420758, y: 0.12483735, z: -0.0023882098}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3557163804767129149}
+  m_Father: {fileID: 1780472387613767815}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 70.04449, y: 96.37739, z: -176.18565}
+--- !u!1 &5822908945538453948
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1780472387613767815}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:Spine2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1780472387613767815
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5822908945538453948}
+  m_LocalRotation: {x: -1.3877788e-17, y: -1e-45, z: 7.730837e-29, w: 1}
+  m_LocalPosition: {x: -0, y: 0.12423229, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5593818028759489909}
+  - {fileID: 5584639544695656117}
+  - {fileID: 5304946805839826263}
+  m_Father: {fileID: 8175025630196326346}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.6995957, y: 0.8156575, z: -2.136778}
+--- !u!1 &5859632424313845026
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5441692580709020188}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:RightHandIndex2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5441692580709020188
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5859632424313845026}
+  m_LocalRotation: {x: 0.03582265, y: 0.000000042512248, z: 0.4077345, w: 0.9123976}
+  m_LocalPosition: {x: -0, y: 0.026745928, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8130207205226175466}
+  m_Father: {fileID: 769004350523098379}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 41.40731, y: -2.5302844, z: 38.048546}
+--- !u!1 &6224243381407066174
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7271499372298959281}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:LeftHandIndex3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7271499372298959281
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6224243381407066174}
+  m_LocalRotation: {x: -0.028803132, y: -0.005869703, z: -0.09536591, w: 0.9950082}
+  m_LocalPosition: {x: -0.0006222049, y: 0.032411028, z: -0.0018065769}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7030139058440611632}
+  m_Father: {fileID: 4267967024229827483}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 2.1549945, y: -0.14936633, z: -9.496505}
+--- !u!1 &6661588867881795639
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5584639544695656117}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:Neck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5584639544695656117
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6661588867881795639}
+  m_LocalRotation: {x: 0.07522011, y: -2.7921007e-20, z: 1.3380412e-19, w: 0.99716693}
+  m_LocalPosition: {x: -0, y: 0.13976118, z: -0.000000009968299}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 116853474379953652}
+  m_Father: {fileID: 1780472387613767815}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 5.373272, y: -1.4972546, z: -3.040017}
+--- !u!1 &7190359378418067600
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3312944002123883777}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:RightHand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3312944002123883777
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7190359378418067600}
+  m_LocalRotation: {x: -0.00000018071192, y: 0.0005157019, z: 0.00000016698725, w: 0.9999999}
+  m_LocalPosition: {x: 3.5527136e-17, y: 0.24825297, z: 2.842171e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 769004350523098379}
+  m_Father: {fileID: 2031072659336940949}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -3.5346289, y: 7.908099, z: 1.3907534}
+--- !u!1 &7224682517102166769
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4183129537616297890}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:Spine
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4183129537616297890
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7224682517102166769}
+  m_LocalRotation: {x: -0.075220644, y: -0.000002543315, z: 0.000024743895, w: 0.99716693}
+  m_LocalPosition: {x: -0, y: 0.09211983, z: -0.0139774345}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8175025630196326346}
+  m_Father: {fileID: 8213529475418047326}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: -5.223474, y: 2.0553372, z: -6.9964447}
+--- !u!1 &7666252186455204571
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8556644889712072491}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:LeftFoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8556644889712072491
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7666252186455204571}
+  m_LocalRotation: {x: 0.46554995, y: 0.04126334, z: -0.029324042, w: 0.8835727}
+  m_LocalPosition: {x: -0, y: 0.45904025, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1551527410350832904}
+  m_Father: {fileID: 235845807440533776}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 50.692463, y: 23.301424, z: 17.027443}
+--- !u!1 &7894857668999589599
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1846301834978862179}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:RightFoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1846301834978862179
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7894857668999589599}
+  m_LocalRotation: {x: 0.46644264, y: -0.04073756, z: 0.02930945, w: 0.8831267}
+  m_LocalPosition: {x: -0, y: 0.45906052, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4772013410134287093}
+  m_Father: {fileID: 1555774934611611782}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 63.66917, y: -5.7383204, z: -2.9352713}
+--- !u!1 &8286652558075798702
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 769004350523098379}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:RightHandIndex1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &769004350523098379
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8286652558075798702}
+  m_LocalRotation: {x: -0.00000003322367, y: -0.0007669951, z: -0.00000015158612, w: 0.9999997}
+  m_LocalPosition: {x: 1.7763568e-17, y: 0.12720264, z: 2.842171e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5441692580709020188}
+  m_Father: {fileID: 3312944002123883777}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 12.831421, y: -0.41122952, z: -1.7744695}
+--- !u!1 &8758674022055446010
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 116853474379953652}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:Head
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &116853474379953652
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8758674022055446010}
+  m_LocalRotation: {x: 0, y: -0, z: -1.0712185e-38, w: 1}
+  m_LocalPosition: {x: -0, y: 0.048471525, z: 0.024356216}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 9222258660050483347}
+  m_Father: {fileID: 5584639544695656117}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -3.206688, y: -1.4907235, z: -2.8447835}
+--- !u!1 &8826312567943310265
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7030139058440611632}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:LeftHandIndex4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7030139058440611632
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8826312567943310265}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.0056273043, y: 0.02634499, z: 0.00007773259}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7271499372298959281}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8912097445848695661
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1555774934611611782}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:RightLeg
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1555774934611611782
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8912097445848695661}
+  m_LocalRotation: {x: -0.007551438, y: 0.000019438527, z: -0.002439286, w: 0.9999685}
+  m_LocalPosition: {x: -0, y: 0.42238173, z: 4.440892e-18}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1846301834978862179}
+  m_Father: {fileID: 2108861746892235386}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -22.514296, y: -2.414153, z: 0.6731616}
+--- !u!1 &9042291870921938588
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 847378951028279319}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:LeftToe_End
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &847378951028279319
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9042291870921938588}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.06802793, z: 1.110223e-18}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1551527410350832904}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9043311689563406792
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2031072659336940949}
+  m_Layer: 0
+  m_Name: zombie_rig_ver2:RightForeArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2031072659336940949
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9043311689563406792}
+  m_LocalRotation: {x: -0.00000027272344, y: 0.000039374452, z: 0.0000004172939, w: 1}
+  m_LocalPosition: {x: -0, y: 0.24867605, z: 2.842171e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3312944002123883777}
+  m_Father: {fileID: 412178490565187611}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 1.5717727, y: 0.14045912, z: 9.885759}
