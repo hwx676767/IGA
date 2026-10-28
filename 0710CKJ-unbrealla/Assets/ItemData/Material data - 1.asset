@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a21cdcc96f041d1a0bb4582111f25ac, type: 3}
+  m_Name: Material data - 1
+  m_EditorClassIdentifier: 
+  itemRarity: 0
+  dropChance: 0
+  maxDropChance: 0
+  dropPrefab: {fileID: 6700282104255388174, guid: 88e5c0890522e2746a97ad9a11426718, type: 3}
+  itemName: fruit
+  itemIcon: {fileID: 21300000, guid: c84ab7b94bbcc2e40a2a2a1e73e8b74e, type: 3}
+  itemType: 2
+  itemInfo: Restores 1 health when consumed
+  maxStackSize: 1
+  weight: 0
+  isConsumable: 1
+  consumableEffect: {fileID: 11400000, guid: de0cb3a8f040f804091aa871bda52d2f, type: 2}

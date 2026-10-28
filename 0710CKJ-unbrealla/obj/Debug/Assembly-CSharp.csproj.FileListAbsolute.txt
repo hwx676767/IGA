@@ -1,0 +1,2 @@
+D:\Files\Files\Programs\mine\Course\RPGguide\Programs\unbrealla2\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+D:\Files\Files\Programs\mine\Course\RPGguide\Programs\unbrealla2\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
