@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEXDrawCore", "TEXDrawCore.csproj", "{6f7b8088-0ac9-6727-793e-265ce684de61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEXDrawEditor", "TEXDrawEditor.csproj", "{8e42abb9-50cb-5739-800a-d0d8b649463b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{5a754c25-cf4a-04c8-ad1c-9f94754ddbdd}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEXDrawRuntime", "TEXDrawRuntime.csproj", "{2abd371c-5eb1-32fc-7f5b-1797f60cc076}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6f7b8088-0ac9-6727-793e-265ce684de61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6f7b8088-0ac9-6727-793e-265ce684de61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8e42abb9-50cb-5739-800a-d0d8b649463b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8e42abb9-50cb-5739-800a-d0d8b649463b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5a754c25-cf4a-04c8-ad1c-9f94754ddbdd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5a754c25-cf4a-04c8-ad1c-9f94754ddbdd}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2abd371c-5eb1-32fc-7f5b-1797f60cc076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2abd371c-5eb1-32fc-7f5b-1797f60cc076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

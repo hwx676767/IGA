@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEXDrawCore", "TEXDrawCore.csproj", "{5355D6D7-0778-5552-7B93-D6A1A3E991AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEXDrawEditor", "TEXDrawEditor.csproj", "{345D6551-6A26-8F8C-A667-D78F3BE623E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEXDrawRuntime", "TEXDrawRuntime.csproj", "{44A40A4E-BA86-278C-BF24-0955CCC84BDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5355D6D7-0778-5552-7B93-D6A1A3E991AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5355D6D7-0778-5552-7B93-D6A1A3E991AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5355D6D7-0778-5552-7B93-D6A1A3E991AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5355D6D7-0778-5552-7B93-D6A1A3E991AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{345D6551-6A26-8F8C-A667-D78F3BE623E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345D6551-6A26-8F8C-A667-D78F3BE623E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345D6551-6A26-8F8C-A667-D78F3BE623E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345D6551-6A26-8F8C-A667-D78F3BE623E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44A40A4E-BA86-278C-BF24-0955CCC84BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A40A4E-BA86-278C-BF24-0955CCC84BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A40A4E-BA86-278C-BF24-0955CCC84BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A40A4E-BA86-278C-BF24-0955CCC84BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
