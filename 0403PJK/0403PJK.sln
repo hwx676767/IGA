@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProPixelizer", "ProPixelizer.csproj", "{ef2619cc-00ab-ed24-f3a0-0f15cb700a1d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{38d2b0d9-5005-7fb5-4558-a14066bf5aea}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ef2619cc-00ab-ed24-f3a0-0f15cb700a1d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ef2619cc-00ab-ed24-f3a0-0f15cb700a1d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38d2b0d9-5005-7fb5-4558-a14066bf5aea}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38d2b0d9-5005-7fb5-4558-a14066bf5aea}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
