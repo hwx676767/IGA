@@ -1,0 +1,75 @@
+{
+  "conversationId": "chat_lin_intro",
+  "targetCharacterId": "target_lin",
+  "chapterId": "chapter_01",
+  "startNodeId": "intro",
+  "nodes": [
+    {
+      "nodeId": "intro",
+      "messages": [
+        {
+          "speakerId": "target_lin",
+          "text": "Hi... I saw your profile on the app. You sound different from most people here.",
+          "delaySeconds": 0.4,
+          "choices": [
+            {
+              "choiceId": "warm_reply",
+              "label": "Play the gentle persona and invite a voice call",
+              "affectionDelta": 8,
+              "suspicionDelta": 1,
+              "scandalDelta": 0.5,
+              "moneyDelta": 0,
+              "nextNodeId": "voice_hook"
+            },
+            {
+              "choiceId": "push_money",
+              "label": "Hint at financial trouble too early",
+              "affectionDelta": 2,
+              "suspicionDelta": 6,
+              "scandalDelta": 2,
+              "moneyDelta": 0,
+              "nextNodeId": "suspicious"
+            }
+          ],
+          "effect": {
+            "voiceHint": "Use soft clip voice for first income",
+            "triggersExposureCheck": false,
+            "unlockSceneId": ""
+          }
+        }
+      ]
+    },
+    {
+      "nodeId": "voice_hook",
+      "messages": [
+        {
+          "speakerId": "target_lin",
+          "text": "Maybe we can talk later tonight? I like voices that feel sincere.",
+          "delaySeconds": 0.2,
+          "choices": [],
+          "effect": {
+            "voiceHint": "ClipVoice recommended",
+            "triggersExposureCheck": false,
+            "unlockSceneId": "scene_voice_room"
+          }
+        }
+      ]
+    },
+    {
+      "nodeId": "suspicious",
+      "messages": [
+        {
+          "speakerId": "target_lin",
+          "text": "You barely know me. Why are you talking about money already?",
+          "delaySeconds": 0.1,
+          "choices": [],
+          "effect": {
+            "voiceHint": "",
+            "triggersExposureCheck": true,
+            "unlockSceneId": ""
+          }
+        }
+      ]
+    }
+  ]
+}

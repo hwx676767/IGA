@@ -1,0 +1,73 @@
+{
+  "upgrades": [
+    {
+      "upgradeId": "upgrade_fake_apartment",
+      "displayName": "Rent Better Background Room",
+      "description": "Switch to a nicer room scene. Increases deception but raises detectability.",
+      "triggerType": 0,
+      "requiredMoney": 1200,
+      "requiredAffection": 0,
+      "requiredCommunicationSkill": 0,
+      "requiredChapterId": "chapter_01",
+      "effectType": 3,
+      "targetSceneId": "scene_fake_apartment",
+      "statModifier": {
+        "moneyDelta": -1200,
+        "detectabilityDelta": 4,
+        "deceptionPowerDelta": 8,
+        "beautyScoreDelta": 0,
+        "socialClassRankDelta": 1,
+        "scandalLevelDelta": 1,
+        "communicationSkillDelta": 0,
+        "emotionalIntelligenceDelta": 0,
+        "crisisManagementDelta": 0
+      }
+    },
+    {
+      "upgradeId": "upgrade_beauty_filter",
+      "displayName": "Boost Beauty Score",
+      "description": "Improve online appearance. Easier to deceive, but inconsistencies become riskier.",
+      "triggerType": 0,
+      "requiredMoney": 800,
+      "requiredAffection": 0,
+      "requiredCommunicationSkill": 5,
+      "requiredChapterId": "chapter_02",
+      "effectType": 1,
+      "targetSceneId": "",
+      "statModifier": {
+        "moneyDelta": -800,
+        "detectabilityDelta": 6,
+        "deceptionPowerDelta": 5,
+        "beautyScoreDelta": 12,
+        "socialClassRankDelta": 0,
+        "scandalLevelDelta": 2,
+        "communicationSkillDelta": 0,
+        "emotionalIntelligenceDelta": 0,
+        "crisisManagementDelta": 0
+      }
+    },
+    {
+      "upgradeId": "upgrade_social_class",
+      "displayName": "Raise Social Class Rank",
+      "description": "Unlock luxury chat backdrop and higher-value targets.",
+      "triggerType": 2,
+      "requiredMoney": 3000,
+      "requiredAffection": 20,
+      "requiredCommunicationSkill": 15,
+      "requiredChapterId": "chapter_03",
+      "effectType": 0,
+      "targetSceneId": "scene_luxury_chat",
+      "statModifier": {
+        "moneyDelta": -3000,
+        "detectabilityDelta": 10,
+        "deceptionPowerDelta": 12,
+        "beautyScoreDelta": 0,
+        "socialClassRankDelta": 2,
+        "scandalLevelDelta": 5,
+        "communicationSkillDelta": 0,
+        "emotionalIntelligenceDelta": 0,
+        "crisisManagementDelta": 0
+      }
+    }
+  ]
+}

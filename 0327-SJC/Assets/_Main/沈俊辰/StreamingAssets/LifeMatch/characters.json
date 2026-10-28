@@ -1,0 +1,50 @@
+{
+  "characters": [
+    {
+      "id": "target_lin",
+      "displayName": "Lin · 28",
+      "avatarKey": "avatar_lin",
+      "realIdentity": {
+        "appearance": "Plain, tired office worker",
+        "financialStatus": "poor",
+        "background": "Suburban family",
+        "hiddenSecret": "Has debt from failed course purchases"
+      },
+      "onlinePersona": {
+        "claimedWealth": "Stable middle class",
+        "claimedPersonality": "Gentle, attentive listener",
+        "claimedLifestyle": "Minimalist but refined",
+        "socialClassRank": "B",
+        "beautyScore": 42
+      },
+      "initialAffection": 12,
+      "initialSuspicion": 8,
+      "preferredVoiceType": "ClipVoice",
+      "chatFileIds": ["chat_lin_intro"],
+      "tags": ["office", "lonely", "course_scam_victim"]
+    },
+    {
+      "id": "target_zhao",
+      "displayName": "Zhao · 35",
+      "avatarKey": "avatar_zhao",
+      "realIdentity": {
+        "appearance": "Average build",
+        "financialStatus": "middle",
+        "background": "Small business owner",
+        "hiddenSecret": "Recently divorced"
+      },
+      "onlinePersona": {
+        "claimedWealth": "High-end investor",
+        "claimedPersonality": "Confident, protective",
+        "claimedLifestyle": "Luxury travel and fine dining",
+        "socialClassRank": "A",
+        "beautyScore": 55
+      },
+      "initialAffection": 5,
+      "initialSuspicion": 15,
+      "preferredVoiceType": "BubbleVoice",
+      "chatFileIds": ["chat_zhao_trust"],
+      "tags": ["wealthy", "high_class", "suspicious"]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "courses": [
+    {
+      "courseId": "course_emotional_talk",
+      "title": "Advanced Emotional Chat",
+      "description": "Learn to mirror target emotions and extend conversations.",
+      "price": 399,
+      "isScam": false,
+      "communicationBonus": 6,
+      "emotionalIntelligenceBonus": 8,
+      "crisisManagementBonus": 2,
+      "moneyLossOnScam": 0,
+      "scandalBonusOnScam": 0,
+      "successChance": 0.85
+    },
+    {
+      "courseId": "course_instant_rich",
+      "title": "7-Day Millionaire Persona",
+      "description": "Promises instant wealth persona transformation.",
+      "price": 1999,
+      "isScam": true,
+      "communicationBonus": 0,
+      "emotionalIntelligenceBonus": 0,
+      "crisisManagementBonus": 0,
+      "moneyLossOnScam": 1200,
+      "scandalBonusOnScam": 8,
+      "successChance": 0.1
+    }
+  ]
+}
