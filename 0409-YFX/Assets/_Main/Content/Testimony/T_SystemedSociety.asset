@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1b2c3d4e5f60718293a4b5c6d7e8f01, type: 3}
+  m_Name: T_SystemedSociety
+  m_EditorClassIdentifier: 
+  title: Systemed Society
+  body: "My terminal has no active identity login, and in a society built entirely around Synapse, I cannot purchase anything, access public services, or use public transportation, because every transaction and movement requires a verified identity. Even basic necessities are tied to the system, making it impossible for me to function normally outside the shelter."
+  clueId: clue_systemed_society

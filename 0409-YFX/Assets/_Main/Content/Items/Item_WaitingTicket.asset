@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6ff49785ce74764295841a081c851ba, type: 3}
+  m_Name: Item_WaitingTicket
+  m_EditorClassIdentifier: 
+  itemName: Waiting Ticket
+  description: "A crumpled waiting ticket found in your trouser pocket. The paper is worn and creased from being tightly balled up. Printed on it is a single queue number: D153."
+  itemImage: {fileID: 21300000, guid: e101000000000000000000000000000a, type: 3}
+  analyzedText: "There's a barcode on it. To get more information, you need to find a way to read it."
+  fullReadContent: 
+  fullReadFile: {fileID: 0}
+  clueId: clue_waiting_ticket

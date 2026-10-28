@@ -1,0 +1,116 @@
+Item description
+Chocolate Wrapper
+A beautiful semi-transparent candy wrapper, refracting a soft blue glow.
+Analyzed:
+The wrapper is patterned with the Synapse’s logo, complemented by elegant blue cursive lettering reading 10th Anniversary.  A small line of text reads: “Not for sale.”
+
+Old Key
+An old key shaped like a cross, with a worn metal surface and a simple, archaic design. It was found in the shelter’s lost-and-found.
+
+Analyzed:
+The Old Key seemingly belonging to the broken key ring attached to the trousers. Its unusual shape suggests that it may have once served a purpose beyond an ordinary key.
+
+Pen
+A premium green fountain pen. It was found beneath a bed in the shelter.
+Analyzed:
+The pen has inscriptions on its side indicating that it was a commemorative item made to mark the 10th anniversary of the Systems Administration Bureau. Its elegant metal body is scratched and worn, while the nib has been damaged from a hard impact.
+
+Someone’s Diary
+A partially damaged diary handed to you by Carol.
+Read：（Full content）
+Analyzed:
+The diary clearly belongs to an unfamiliar man, filled with fragments of handwriting and missing pages. Why Carol believes it is yours remains unexplained.
+
+A roll of banknotes
+A roll of crisp, newly issued banknotes found among your belongings. Its pristine condition makes it strangely out of place.
+Analyzed:
+With no valid identity or records, you have no way to use the money in legal stores. But you can use it in the black market.
+
+Waiting Ticket 
+A crumpled waiting ticket found in your trouser pocket. The paper is worn and creased from being tightly balled up. Printed on it is a single queue number: D153.
+Analyzed:
+There's a barcode on it. To get more information, you need to find a way to read it.
+
+Car Key
+An old-fashioned car key found among the weeds outside the church. 
+Analyzed:
+This type of car key belongs to a very old vehicle, from a time when cars still required physical keys. 
+
+Photo
+Brochure (Photo)
+According to a government poster and Brochure, the System Welfare Act offers free Synapse implants to anyone who has not yet joined the system. The program also promises to cover all subsequent maintenance and service costs, presenting the implant as a public benefit available to everyone. The poster frames the program as an opportunity for a safer, more connected, and more secure future.
+
+New report in 2050 (Photo)
+Old archives from the library. This is a printed copy.
+Title: Synapse Holds Emergency Press Conference After Memory-Storage Outage, Dodges Key Questions
+Read: (Full Content)
+
+Photo Album (Photo)
+An old church album found in the storage room, containing photographs from fifteen years ago. 
+Analyzed:
+It shows the former church and its staff, including the priest who still serves there today. The photographs offer a glimpse into a past that seems strangely unchanged. 
+
+Testimony
+I am ??
+I woke up in the shelter with no memory of who I was or how I got there. My terminal still functions, but my identity login has been completely erased, leaving me unable to access any personal records or information. Everything I once knew about myself seems to have disappeared along with my identity.
+
+Shelter’s Rules
+Carol explains that one of the shelter’s most important rules is that everyone must use aliases when speaking to one another. No real names, personal records, or identifying information are to be shared unless absolutely necessary. And the use of any smart electronic products is prohibited.
+
+Systemed Society
+My terminal has no active identity login, and in a society built entirely around Synapse. I cannot purchase anything, access public services, or use public transportation, because every transaction and movement requires a verified identity. Even basic necessities are tied to the system, making it impossible for me to function normally outside the shelter. 
+Mysterious Diary
+Even though the diary appears to belong to a man you do not recognize. Carol insists that the damaged diary was dropped by you; however, she cannot explain how she knows this. She refuses to give it to anyone else and maintains that it should be in your hands. 
+
+The Falcon
+
+Mentioned in the diary, was a club formed by various figures from different sectors of the system twelve years ago.
+
+
+Trouble Classification
+
+The Administration Bureau categorizes terminal services into four types: A D R U Z, A for new users, D for damage and malfunctions, R for renewal, U for upgrade, Z for uncategorized issues. And the numbers are individual serial numbers that make up the number on the receipt.
+
+
+Scanner
+
+Scanning the receipt using the administor’s terminal will provide more personal information about the service applicant.
+
+
+Gig life
+
+Joanne owns no terminal and survives by taking whatever odd jobs she can find, while occasionally helping Carol with the church’s daily affairs. She has lived in the shelter for a long time, claiming that it is the only place where she feels relatively safe.
+
+Anniversary Gift box
+The candy wrapper bearing the tenth anniversary label was specially commissioned for the System Administration. According to the clerk, Wayne, it was part of a commemorative gift box distributed to Bureau employees. 
+
+Inference (Threads in the mind map）
+
+Not just a Shelter
+Clues: I am ?? & Shelter’s Rules & Gig life
+
+Inference: The shelter may exist to protect people from Synapse surveillance. Individuals might be targeted by Synapse for refusing to join the system.
+
+Whose diary is it?
+Clues: Someone’s Notebook & Mysterious Diary
+
+Inference: The shelter administrator may know more about the diary than he claims.
+
+
+Suspicious Banknotes
+Clues: A Roll of Banknotes & Systemed Society
+
+Inference: These banknotes completed a transaction that circumvented the system. What kind of shady dealings was it used for?
+
+Get a Scanner
+Clues: Waiting Ticket & Trouble Classification & Scanner
+Inference: ‘I’ may have visited the administration office because of some malfunctions before losing my identity. I need to scan the barcode to get further information. D153 may be one of the few remaining traces of my former identity.
+
+Internal thing
+Chocolate Wrapper & Anniversary Gift box
+
+Inference: It is the same packaging. How did I end up with this internal Bureau chocolate?  Perhaps “I” have a deeper connection to the Bureau than I realized.
+
+
+
+

@@ -1,0 +1,16 @@
+Wayne: D153, how can I assist you?
+Player: I... my Synapse system is disconnected. I can’t remember anything, not even my own name.
+Wayne: Oh, that’s a temporary cognitive blur caused by a connection failure. I’ve handled a similar “hardware aging” case just this week.
+Player: Is this common?
+Wayne: No, not really. Our chip failure rate is below 0.001%. It might be a data parsing error, or related to your usage habits. Please avoid frequently accessing the cloud memory—our AI assistant will continue to monitor and support you. Relax, it’s just a minor issue.
+Player: But my mind feels completely wiped. Is this level of memory loss really a “minor issue”?
+Wayne: Don’t worry too much. You’re a registered citizen, and the administration’s cloud stores all your backups. Once you reconnect, your memories will flow back into your mind without losing a second.
+Player: Then when can I reconnect?
+Wayne: I can help you apply for a temporary credential first. Then we’ll schedule a repair appointment to check your chip, and after that, you’ll be able to reconnect.
+Wayne: Have a piece of chocolate. Don’t look so worried—everything you spend during this period will be covered by Synapse’s accident insurance. Just take it as a chance to relax.
+Player: (stares at the blue-wrapped chocolate) What brand is it? I’ve never seen it before.
+Wayne: It’s a custom chocolate made by the administration to celebrate the Bureau’s 10th anniversary. Part of an internal commemorative gift box for employees. Not bad, right? I haven’t given it to anyone else.
+Player: ...Not for sale?
+Wayne: Exactly. Internal only. Consider it a welcome-back gesture.
+Wayne: Alright, here’s your temporary credential. If you still have your waiting ticket, keep it — scanning the barcode on an administrator terminal can pull more of the applicant’s service record.
+Wayne: Next!

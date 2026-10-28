@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6ff49785ce74764295841a081c851ba, type: 3}
+  m_Name: Item_Diary
+  m_EditorClassIdentifier: 
+  itemName: Someone's Diary
+  description: "A partially damaged diary handed to you by Carol."
+  itemImage: {fileID: 21300000, guid: e1010000000000000000000000000009, type: 3}
+  analyzedText: "The diary clearly belongs to an unfamiliar man, filled with fragments of handwriting and missing pages. Why Carol believes it is yours remains unexplained."
+  fullReadContent: 
+  fullReadFile: {fileID: 4900000, guid: f2010000000000000000000000000001, type: 3}
+  clueId: clue_diary

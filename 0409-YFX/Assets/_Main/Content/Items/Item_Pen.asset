@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6ff49785ce74764295841a081c851ba, type: 3}
+  m_Name: Item_Pen
+  m_EditorClassIdentifier: 
+  itemName: Pen
+  description: "A premium green fountain pen. It was found beneath a bed in the shelter."
+  itemImage: {fileID: 21300000, guid: af1c65c6eeb54c046a5c5fbd88a0079d, type: 3}
+  analyzedText: "The pen has inscriptions on its side indicating that it was a commemorative item made to mark the 10th anniversary of the Systems Administration Bureau. Its elegant metal body is scratched and worn, while the nib has been damaged from a hard impact."
+  fullReadContent: 
+  fullReadFile: {fileID: 0}
+  clueId: clue_pen

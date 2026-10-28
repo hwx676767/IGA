@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1b2c3d4e5f60718293a4b5c6d7e8f01, type: 3}
+  m_Name: T_MysteriousDiary
+  m_EditorClassIdentifier: 
+  title: Mysterious Diary
+  body: "Even though the diary appears to belong to a man you do not recognize, Carol insists that the damaged diary was dropped by you; however, she cannot explain how she knows this. She refuses to give it to anyone else and maintains that it should be in your hands."
+  clueId: clue_mysterious_diary

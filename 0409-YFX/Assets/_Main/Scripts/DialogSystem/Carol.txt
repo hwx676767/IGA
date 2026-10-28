@@ -1,0 +1,15 @@
+Carol: Oh, thank goodness, you’re awake. I was about to call a doctor.
+Player: After waking up, my mind is completely blank...
+Player: Who... am I? How did I end up here?
+Carol: You collapsed at the entrance of our shelter. I’m Carol, the person in charge here. This is Joanne, she’s kind of my assistant.
+Player: (touches the back of their head) My chip... why isn’t there any notification sound? I can’t connect to my assistant or the cloud memory.
+Carol: Oh my, another person like you with a broken system. What’s been going on lately?
+Player: I need to fix it immediately. Without the system, I can’t even prove my legal identity.
+Carol: Easy. Around here, we don’t ask for real names. One of our most important rules is that everyone uses an alias. No personal records, no identifying information, unless it’s absolutely necessary.
+Carol: And smart electronics are prohibited inside the shelter. Keeps us quieter. Safer, too.
+Player: Then how am I supposed to live? I can’t buy anything, can’t take public transport, can’t access services without a verified login.
+Carol: For now, stay. Eat. Rest. When you’re ready, look through what you were carrying — and this.
+Carol: (hands over a damaged diary) You dropped this when you collapsed. It’s yours. I’m sure of it.
+Player: This handwriting... I don’t recognize it. Why are you so certain it belongs to me?
+Carol: I can’t explain that. I only know it shouldn’t go to anyone else. Keep it.
+Carol: If you still insist on going to the Administration Bureau, talk to Joanne first. She knows what it’s like outside better than I do.
