@@ -1,0 +1,14 @@
+[
+  {"time":0.5,"direction":"Up"},
+  {"time":1.0,"direction":"Down"},
+  {"time":1.5,"direction":"Left"},
+  {"time":2.0,"direction":"Right"},
+  {"time":2.5,"direction":"Circle"},
+  {"time":3.0,"direction":"Up"},
+  {"time":3.5,"direction":"Down"},
+  {"time":4.0,"direction":"Left"},
+  {"time":4.5,"direction":"Right"},
+  {"time":5.0,"direction":"Circle"},
+  {"time":5.5,"direction":"Up"},
+  {"time":6.0,"direction":"Down"}
+]
