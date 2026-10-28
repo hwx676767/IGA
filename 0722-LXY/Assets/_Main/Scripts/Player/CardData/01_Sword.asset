@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1aaf7a8a932f8e94ebd2c5f153ba950c, type: 3}
+  m_Name: 01_Sword
+  m_EditorClassIdentifier: 
+  cardId: 03
+  cardSprite: {fileID: 21300000, guid: 41ad6d3f8f681c3428a7ec27fb01f648, type: 3}
+  cost: 10
+  operatorPrefab: {fileID: 8526865755418515815, guid: 447de4f1f7e840441a8318f954be2327, type: 3}
+  placeableTileType: 0
+  operatorType: 0
+  attackDamage: 1
+  attackRange: 1
+  attackInterval: 1
+  animatorController: {fileID: 22100000, guid: 0c21f87978b92974aa792e2474afbe15, type: 2}

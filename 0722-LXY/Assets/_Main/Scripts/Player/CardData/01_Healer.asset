@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1aaf7a8a932f8e94ebd2c5f153ba950c, type: 3}
+  m_Name: 01_Healer
+  m_EditorClassIdentifier: 
+  cardId: 02
+  cardSprite: {fileID: 21300000, guid: bdd0766414925f64e8fd094a18620f09, type: 3}
+  cost: 25
+  operatorPrefab: {fileID: 8526865755418515815, guid: 8c657f27af9de7d44ae785e10b197185, type: 3}
+  placeableTileType: 2
+  operatorType: 2
+  attackDamage: 0
+  attackRange: 2
+  attackInterval: 3
+  animatorController: {fileID: 22100000, guid: da715be861979f34182c801d8de9e905, type: 2}
