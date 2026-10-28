@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3a7a1be486ab844b86ad18656f0c953, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  initialMoney: 5000
+  initialEnvironment: 25
+  totalTurns: 12
+  maxActionsPerTurn: 2
+  miningCost: 800
+  miningIncome: 2000
+  miningEnvDamage: 15
+  miningIncomePerTurn: 300
+  miningPollutionPerTurn: 2
+  factoryCost: 1500
+  factoryIncome: 1200
+  factoryEnvDamage: 10
+  factoryIncomePerTurn: 500
+  factoryPollutionPerTurn: 3
+  treeCost: 600
+  treeEnvBenefit: 8
+  treeBenefitPerTurn: 1.5
+  treeEffectThreshold: 35
+  treeEffectRange: 40
+  industrialTreePenaltyRatio: 2
+  naturalDegradationThreshold: 30
+  naturalDegradationRate: 1
+  passiveIncomeBase: 0
+  winEnvironment: 50
+  loseEnvironment: 10
+  winMoneyMinimum: 1
