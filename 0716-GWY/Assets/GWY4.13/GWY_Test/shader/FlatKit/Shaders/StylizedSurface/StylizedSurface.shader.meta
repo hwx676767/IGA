@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 882a49aa98fb1894dbcea2fe27f1881b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _CelStepTexture: {fileID: 2800000, guid: 6f77a514be30a4a439ace6258fec1150, type: 3}
+  - _CelCurveTexture: {fileID: 2800000, guid: 6f77a514be30a4a439ace6258fec1150, type: 3}
+  - _BaseMap: {fileID: 2800000, guid: 6f77a514be30a4a439ace6258fec1150, type: 3}
+  - _DetailMap: {fileID: 2800000, guid: 6f77a514be30a4a439ace6258fec1150, type: 3}
+  - _BumpMap: {fileID: 2800000, guid: 6f77a514be30a4a439ace6258fec1150, type: 3}
+  - _EmissionMap: {fileID: 2800000, guid: 6f77a514be30a4a439ace6258fec1150, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

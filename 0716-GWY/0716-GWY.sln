@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{538dcde6-4740-4668-1e04-627d55f3db17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{b9e40c23-5f98-ec0d-c7ef-e33f90c8bfbf}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CiroContinisio.ToonShader.Editor", "CiroContinisio.ToonShader.Editor.csproj", "{6acc2d4c-ed89-f1ec-601a-074b761326e6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{538dcde6-4740-4668-1e04-627d55f3db17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538dcde6-4740-4668-1e04-627d55f3db17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b9e40c23-5f98-ec0d-c7ef-e33f90c8bfbf}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b9e40c23-5f98-ec0d-c7ef-e33f90c8bfbf}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6acc2d4c-ed89-f1ec-601a-074b761326e6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6acc2d4c-ed89-f1ec-601a-074b761326e6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
