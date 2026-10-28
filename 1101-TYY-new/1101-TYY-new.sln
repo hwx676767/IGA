@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazingAssets.CurvedWorld.Examples", "AmazingAssets.CurvedWorld.Examples.csproj", "{84c7f9cd-8aa6-d176-ca76-4628d73cfaa6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazingAssets.CurvedWorld", "AmazingAssets.CurvedWorld.csproj", "{91c0cd0a-51d8-cdad-69d8-3a076dcf0743}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazingAssets.CurvedWorld.Editor", "AmazingAssets.CurvedWorld.Editor.csproj", "{0947adc8-cbc9-369d-2f0b-7a6222634d07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{20661067-20c9-939b-2acd-86ec235030d8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84c7f9cd-8aa6-d176-ca76-4628d73cfaa6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84c7f9cd-8aa6-d176-ca76-4628d73cfaa6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91c0cd0a-51d8-cdad-69d8-3a076dcf0743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91c0cd0a-51d8-cdad-69d8-3a076dcf0743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0947adc8-cbc9-369d-2f0b-7a6222634d07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0947adc8-cbc9-369d-2f0b-7a6222634d07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20661067-20c9-939b-2acd-86ec235030d8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20661067-20c9-939b-2acd-86ec235030d8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
