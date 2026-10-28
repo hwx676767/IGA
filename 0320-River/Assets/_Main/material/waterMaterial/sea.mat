@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-6220944165555138509
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 7
+--- !u!114 &-3939334617012234168
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da692e001514ec24dbc4cca1949ff7e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 13
+  hdPluginSubTargetMaterialVersions:
+    m_Keys: []
+    m_Values: 
+--- !u!114 &-2291610378276161277
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 639247ca83abc874e893eb93af2b5e44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 0
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: sea
+  m_Shader: {fileID: -6465566751694194690, guid: 00ffe7d0b7161420897069dc6e12822c,
+    type: 3}
+  m_Parent: {fileID: -876546973899608171, guid: 00ffe7d0b7161420897069dc6e12822c,
+    type: 3}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - CREST_FLOW_ON
+  - _ALPHATEST_ON
+  - _BUILTIN_ALPHATEST_ON
+  - _BUILTIN_AlphaClip
+  - _BUILTIN_SURFACE_TYPE_TRANSPARENT
+  - _BUILTIN_TRANSPARENT_RECEIVES_SHADOWS
+  - _SURFACE_TYPE_TRANSPARENT
+  m_InvalidKeywords:
+  - CREST_CAUSTICS_ON
+  - CREST_FOAM_ON
+  - _DOUBLESIDED_ON
+  - _EMISSION
+  - _ENABLE_FOG_ON_TRANSPARENT
+  - _TRANSPARENT_WRITES_MOTION_VEC
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap:
+    RenderType: Transparent
+  disabledShaderPasses:
+  - TransparentDepthPostpass
+  - TransparentBackface
+  - RayTracingPrepass
+  - SHADOWCASTER
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Crest_NormalMapTexture:
+        m_Texture: {fileID: 2800000, guid: 7aa3f69cfb40b429a865c45a7271c5f5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - CREST_FLOW: 1
+    - _BUILTIN_DstBlend: 10
+    - _BUILTIN_QueueControl: 0
+    - _BUILTIN_SrcBlend: 5
+    - _BUILTIN_ZWrite: 1
+    - _Crest_AlbedoEnabled: 1
+    - _Crest_Anisotropy: 0.488
+    - _Crest_CausticsDepthOfField: 7.76
+    - _Crest_CausticsDistortionScale: 291
+    - _Crest_CausticsDistortionStrength: 0.197
+    - _Crest_CausticsFocalDepth: 9.4
+    - _Crest_CausticsScrollSpeed: 4.18
+    - _Crest_CausticsStrength: 6.84
+    - _Crest_CausticsTextureAverage: 0.172
+    - _Crest_CausticsTextureScale: 88.8
+    - _Crest_FoamEnabled: 1
+    - _Crest_FoamFeather: 1
+    - _Crest_FoamScale: 85.9
+    - _Crest_FoamScrollSpeed: 4.18
+    - _Crest_MinimumReflectionDirectionY: 1
+    - _Crest_NormalMapEnabled: 0
+    - _Crest_NormalMapScale: 28.4
+    - _Crest_NormalMapStrength: 0.916
+    - _Crest_NormalsStrengthOverall: 1
+    - _Crest_Occlusion: 0.291
+    - _Crest_OcclusionUnderwater: 0.677
+    - _Crest_RefractionStrength: 1.31
+    - _Crest_SSSIntensity: 3.69
+    - _Crest_SSSPinchMinimum: 0.75
+    - _Crest_ShadowCasterThreshold: 0.74
+    - _Crest_ShadowsAffectsAmbientFactor: 0.77
+    - _Crest_Smoothness: 0.464
+    - _Crest_SmoothnessFalloff: 5
+    - _Crest_SmoothnessFarDistance: 8000
+    - _DstBlend: 10
+    - _QueueControl: 0
+    - _SrcBlend: 5
+    - _ZWrite: 1
+    m_Colors:
+    - _Crest_Absorption: {r: 3.1383405, g: 1.4391913, b: 1.3121989, a: 1}
+    - _Crest_AbsorptionColor: {r: 0.37068352, g: 0.6343836, b: 0.6603774, a: 0.49411765}
+    - _Crest_Scattering: {r: 0.12255245, g: 0.20133916, b: 0.32075465, a: 0.68235296}
+  m_BuildTextureStacks: []
