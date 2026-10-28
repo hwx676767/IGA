@@ -1,0 +1,16 @@
+# Restore this Brainstorm snapshot
+
+This folder is the working version BEFORE adding A/B/C script choices + tutorial rounds.
+
+## How to roll back
+1. Close Unity or make sure scripts are not locked.
+2. Copy these files back over the project:
+   - BrainstormController.cs  -> Assets/_Main/Scripts/
+   - BrainstormDanmakuButton.cs -> Assets/_Main/Scripts/
+   - BrainstormThought.cs -> Assets/_Main/Scripts/
+   - DanmakuRevealPlaceholder.cs -> Assets/_Main/Scripts/
+   - S1.unity -> Assets/Scenes/  (only if scene was changed)
+3. Return to Unity and let it recompile.
+
+Date: 2026-10-21
+Label: S1_brainstorm_before_choices
