@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/1017mengxiang/Start.unity
+    guid: 1286b6a74c1ae114db61e0066f6836f5
+  - enabled: 1
+    path: Assets/1017mengxiang/gameScene.unity
+    guid: e7846de856761584cbdb262f547e606e
+  - enabled: 0
+    path: Assets/Demo/Unlock/start.unity
+    guid: 57097f721d1aee24ba2728bfc2642893
+  - enabled: 0
+    path: Assets/Demo/Unlock/checkPoint.unity
+    guid: b94c02b715045014e99156974a1e20e8
+  - enabled: 0
+    path: Assets/Demo/SwitchScene/Menu.unity
+    guid: 3f1836900c74da845a2aca8dc4569fb8
+  - enabled: 0
+    path: Assets/Demo/SwitchScene/L1.unity
+    guid: b98442234cb03054d8a702172042f31b
+  - enabled: 0
+    path: Assets/Demo/SwitchScene/L2.unity
+    guid: 44b6c0b049c65384294fb703515ff07b
+  - enabled: 0
+    path: Assets/Demo/SwitchScene/L3.unity
+    guid: 2381b22762c7f394ea108fd68d56ecab
+  - enabled: 0
+    path: Assets/Demo/SwipeMenu/SwipeMenu.unity
+    guid: c2ee98b2f7cf5bc4f9696bfb0308c1bb
+  m_configObjects: {}
