@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{c572daf0-9032-f645-27d3-2c4ced9c6a5a}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{38fb1143-03ea-6126-87dc-85e487f3c526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hedera.Runtime", "Hedera.Runtime.csproj", "{af7e4b7c-2ffb-f2fb-11ee-79c19632561a}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hedera.Editor", "Hedera.Editor.csproj", "{338d1fc8-b948-8804-1200-770e68d3d371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{c572daf0-9032-f645-27d3-2c4ced9c6a5a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c572daf0-9032-f645-27d3-2c4ced9c6a5a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38fb1143-03ea-6126-87dc-85e487f3c526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38fb1143-03ea-6126-87dc-85e487f3c526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{af7e4b7c-2ffb-f2fb-11ee-79c19632561a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{af7e4b7c-2ffb-f2fb-11ee-79c19632561a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{338d1fc8-b948-8804-1200-770e68d3d371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{338d1fc8-b948-8804-1200-770e68d3d371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
