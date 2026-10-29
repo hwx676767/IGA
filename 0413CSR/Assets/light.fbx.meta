@@ -1,0 +1,1409 @@
+fileFormatVersion: 2
+guid: 4b3e46946e25d3847b8b6f6aa00a0f72
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly
+    second: {fileID: 2100000, guid: 0053e11e64ccf864789ec87b3e19fa54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.001
+    second: {fileID: 2100000, guid: 8e5ea0e3e7a641f45a0da0a5a512f222, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.002
+    second: {fileID: 2100000, guid: 6ac4329c98ab1d546befb529548d5123, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.003
+    second: {fileID: 2100000, guid: 39ec9253157fe3d438fec892f9cf053d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.005
+    second: {fileID: 2100000, guid: e9ada3cca5f8a8941ab6fbafd19d99ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.006
+    second: {fileID: 2100000, guid: af9d28dcf877126439505984e849896b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.007
+    second: {fileID: 2100000, guid: 1a77840fa7cb7d24c885d7fcf26cd172, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.008
+    second: {fileID: 2100000, guid: 582d5810c60485c4c83b11ceb4d05a62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.009
+    second: {fileID: 2100000, guid: 2ab3472f93520f44986026a32447ca09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.010
+    second: {fileID: 2100000, guid: 0578c286bca103e41bdb16f7531ff39c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.011
+    second: {fileID: 2100000, guid: b79e9ab88d3e7254c82975b9bfd32c59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.012
+    second: {fileID: 2100000, guid: daf6d3d8b277aca44ab936a44a4de0ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.013
+    second: {fileID: 2100000, guid: 0e79d13e64b2847469d5a8526c483383, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.014
+    second: {fileID: 2100000, guid: fb55c0c27fd3160429fa389207a7ac1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.015
+    second: {fileID: 2100000, guid: 7d15bd6c1e27c2b4caaeceb8b5a5342b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.016
+    second: {fileID: 2100000, guid: 2cb7998b5d96e1149b9d6187f0773783, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.017
+    second: {fileID: 2100000, guid: 1f126af22eba8f947a54ef38b325374f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.018
+    second: {fileID: 2100000, guid: c327e92a50b468a4cbf5d088e5752147, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.020
+    second: {fileID: 2100000, guid: 83f2eb30a419e4348a80f5881df84fe1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.021
+    second: {fileID: 2100000, guid: 70596f947f101d941bca20cf77706808, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.022
+    second: {fileID: 2100000, guid: daa6d83134982c4439c4f0d96c91b392, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.023
+    second: {fileID: 2100000, guid: ba0f0cdf74901254594bfd2206330fbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.024
+    second: {fileID: 2100000, guid: eaced286f49ccde40ac522875420aeec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.025
+    second: {fileID: 2100000, guid: af84c2229133ead4690332fa1b7c8551, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.026
+    second: {fileID: 2100000, guid: a9397485578886f4b9979df391393626, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.027
+    second: {fileID: 2100000, guid: 0ea3261cb3244da4785bbf9cc6ffc64f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.028
+    second: {fileID: 2100000, guid: b2870b6469d64ac4ba7b1717e126017b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.029
+    second: {fileID: 2100000, guid: 46ae9515235fcb64d90278d8a3547269, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.030
+    second: {fileID: 2100000, guid: c5cbfb813aabdc7458f29d5b5b6224c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.032
+    second: {fileID: 2100000, guid: de2b360f306880f45b051ffa770878f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.033
+    second: {fileID: 2100000, guid: 2340db63786655644808efc4645e4aa6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.036
+    second: {fileID: 2100000, guid: d22f9753a2edc4d44a5e603b2664ce89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Cardboard
+    second: {fileID: 2100000, guid: 2fd03f2ce705af94f819dfe7ac092b32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_ConcreteDecorA
+    second: {fileID: 2100000, guid: 3a8808439f8759c4ca3d2541dce65473, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_ConcreteDecorA.001
+    second: {fileID: 2100000, guid: f3dd0dd16e72c4f49b38c9a8da89fc1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_ConcreteDecorA.002
+    second: {fileID: 2100000, guid: ec6b06bc58ad28c4ca8ab2b1abfa1eef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_ConcreteDecorA.003
+    second: {fileID: 2100000, guid: edef28d529c47c54aa717f8b6c7594ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_ConcreteDecorA.004
+    second: {fileID: 2100000, guid: 31bdea65815415749bf13990c78b5c5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_ConcreteDecorA.005
+    second: {fileID: 2100000, guid: c60bbcf97400baf4da212829d666e4a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_ConcreteDecorA.006
+    second: {fileID: 2100000, guid: f172fcfbcadaeaa4a8478a158948ce48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_ConcreteDecorA.007
+    second: {fileID: 2100000, guid: 0cb552a0ea16f8e418d21902e4e9ac51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_ConcreteDecorA.008
+    second: {fileID: 2100000, guid: f0176e4e3d1e1ea48ba2132df663f5de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_ConcreteDecorA.009
+    second: {fileID: 2100000, guid: 1208b02603341de47ad9393b67befd30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_ConcreteDecorA.010
+    second: {fileID: 2100000, guid: 6ad366fc58d9333479259d55a63a49c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_ConcreteDecorA.011
+    second: {fileID: 2100000, guid: 277fed837d25a224f95e5cc65f07029b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_ConcreteDecorA.012
+    second: {fileID: 2100000, guid: e27a8e30e8090a74083ff6bb2130bf9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_ConcreteDecorA.013
+    second: {fileID: 2100000, guid: 01bcfa5520b979a49864b826be4c5cf6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_ConcreteDecorA.015
+    second: {fileID: 2100000, guid: 0c872c69b54e1694a9466fe106077ec8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_ConcreteDecorA.016
+    second: {fileID: 2100000, guid: 2a369dcaf5068324a81974fba7651314, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_ConcreteDecorA.017
+    second: {fileID: 2100000, guid: 4fbd459d9cc1eef4588040c899f2b49c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_ConcreteDecorA.018
+    second: {fileID: 2100000, guid: 291e18fc3f90f86489ccf80f0e08964d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_ConcreteRoad
+    second: {fileID: 2100000, guid: baae8cadb99de7242beb9642e4a78e37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_ConcreteRoad.001
+    second: {fileID: 2100000, guid: ae75da06e89b93f46863107029bd52ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_ConcreteRoad.002
+    second: {fileID: 2100000, guid: 9d01626e8144c604582a44353d00a3b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_ConcreteRoad.005
+    second: {fileID: 2100000, guid: 95f3b20a663d8e24985938ed39d04fa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Glass
+    second: {fileID: 2100000, guid: 06d02ff3328d88f4ea522560b7039a5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Glass.001
+    second: {fileID: 2100000, guid: bb0d62159744c7a47ab8b0869f49525b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Glass.002
+    second: {fileID: 2100000, guid: 8296febb1f5a0264f95d71f681f5a0c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Glass.003
+    second: {fileID: 2100000, guid: a0c5906303d28bb45a0a8e8ed107f3ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Glass.004
+    second: {fileID: 2100000, guid: 56afa0159127b7c49845261bf798c58c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Glass.005
+    second: {fileID: 2100000, guid: 1f0f070f483aa894ab2bad02e4754a32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Glass.006
+    second: {fileID: 2100000, guid: 9a4d6054cc9f7ce4384e7b594e0cf6bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Glass.010
+    second: {fileID: 2100000, guid: 29ab1165116cab943a6b9b420fb2ee21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Glass.011
+    second: {fileID: 2100000, guid: 604aabab64432514cb7950cf552e9a4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_GlassBlack
+    second: {fileID: 2100000, guid: db6464de659262d40b26faf917e37f88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_GlassBlack.001
+    second: {fileID: 2100000, guid: 4ee1af8a4bbbc4d45a080103487fb992, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_GlassBlack.002
+    second: {fileID: 2100000, guid: c852dff76f7fd534aa31696907738837, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_GlassFrosted
+    second: {fileID: 2100000, guid: d8253a3f7524f3745b3310c3f8b260cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_GlassFrosted.001
+    second: {fileID: 2100000, guid: 583bc8d3d75d81343a0eee639313888b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_GlassFrosted.002
+    second: {fileID: 2100000, guid: 76b2fc41b150bb54a8245fdcaf4bc6b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_GreenHedge
+    second: {fileID: 2100000, guid: 8751c639886ed9f45adf42478ee0691b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_GreenHedge.001
+    second: {fileID: 2100000, guid: b99f05eade3861c48b423b5bc0bccfcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_GreenHedge.002
+    second: {fileID: 2100000, guid: 658f9483ebd6fdb45b21990d756f3532, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_GreenHedge.003
+    second: {fileID: 2100000, guid: db493a810a83c1a4cafed4a18a10c27b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_GreenHedge.004
+    second: {fileID: 2100000, guid: 97c79c87bdeb85a49a79f95cb0a54d11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_GreenHedge.005
+    second: {fileID: 2100000, guid: d96ea9ce545e3d242ad3d7dc1d8f370d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_GreenHedge.006
+    second: {fileID: 2100000, guid: 524a07e45bed9c04a8d68e4d1f11d0bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_GreenHedge.007
+    second: {fileID: 2100000, guid: 586b7506d78117e4da813c7d146899bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_GreenHedge.008
+    second: {fileID: 2100000, guid: 8e1119b35f8afc1469503b4c0fa954ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_GreenHedge.009
+    second: {fileID: 2100000, guid: 660b8cfca598c77418a621a0ecb72c6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_GreenHedge.010
+    second: {fileID: 2100000, guid: f91261985c841a34db88f63cef033754, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_GreenHedge.011
+    second: {fileID: 2100000, guid: 866cf07dae29e2848b4e24f227ece0c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_GreenHedge.012
+    second: {fileID: 2100000, guid: 60d8a922d7d797646a1cb85f9cb36e65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_GreenHedge.014
+    second: {fileID: 2100000, guid: b9d0c1263b083a44d87140bd6729b6e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_GreenHedge.015
+    second: {fileID: 2100000, guid: 280513cce755a41419a7e2429a407ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Lamps.001
+    second: {fileID: 2100000, guid: 9a81d45fdae5db34cb822fed84cfac60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Lamps.002
+    second: {fileID: 2100000, guid: 17998a7762e4d1e4a83435477a5595eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Lamps.003
+    second: {fileID: 2100000, guid: 6a968c5e99b7ec54292ee888df581570, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Lamps.004
+    second: {fileID: 2100000, guid: f980e2969f7c43c4cac374fb80b00855, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Lamps.005
+    second: {fileID: 2100000, guid: e0bdf4268c102ab448607a930e0a1200, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Lamps.006
+    second: {fileID: 2100000, guid: 1b19b2a87a7b1744480ba7fba9b246f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Lamps.007
+    second: {fileID: 2100000, guid: 4e5cf0050edb1c84d8a7c7ae763175c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Lamps.008
+    second: {fileID: 2100000, guid: bfa1f7d595b66da4491bbc745cb7c5d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Lamps.010
+    second: {fileID: 2100000, guid: e220d76d770315c478cbf8cdba4ea8ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Lamps.013
+    second: {fileID: 2100000, guid: 0fe6adda6656ccf4c8e171cdc8092ba6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Lamps.014
+    second: {fileID: 2100000, guid: 01c8b70999290844691d5f54162aa2a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_LeafAtlas
+    second: {fileID: 2100000, guid: 9ca80e147a9361d4cbd988e3f230a5c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_LeafAtlas.001
+    second: {fileID: 2100000, guid: 45acd580fcee0a44f8765ddf33666a96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_LeafAtlas.002
+    second: {fileID: 2100000, guid: 06ce39a3651a4f1489c44732ca74a9b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_LeafAtlas.003
+    second: {fileID: 2100000, guid: 37a769c68a3c65c40bc6a80f8fdd48c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_LeafAtlas.004
+    second: {fileID: 2100000, guid: b6b66e63082ef6948a3c2f80c58cbe37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_LeafAtlas.005
+    second: {fileID: 2100000, guid: aab61f6cbfc5e4f4498b885c53f69e99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_LeafAtlas.006
+    second: {fileID: 2100000, guid: fa47f4692274986488738bb88fbc6600, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_LeafAtlas.007
+    second: {fileID: 2100000, guid: e046c35699d194f4baba77926c15621a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_LeafAtlas.008
+    second: {fileID: 2100000, guid: de878c62aca0aae4899efc7c2c9a80bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_LeafAtlas.009
+    second: {fileID: 2100000, guid: b8869947337e346449e4278babb64e88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_LeafAtlas.010
+    second: {fileID: 2100000, guid: 352deeeaf16395a43b86c94c68e8f46f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_LeafAtlas.011
+    second: {fileID: 2100000, guid: a0e80be0c2b173940851aff07481be34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_LeafAtlas.012
+    second: {fileID: 2100000, guid: 3afa4bfd5d5d228478f08ae2e42c84b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_LeafAtlas.013
+    second: {fileID: 2100000, guid: 9a161d4bbf11cb745a75a0a486d6a0b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_LeafAtlas.014
+    second: {fileID: 2100000, guid: 46fa1ebd08685ba488e1c393c94f6848, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_LeafAtlas.015
+    second: {fileID: 2100000, guid: da1e1d626476c50458aa6f6e246bdd38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_LeafAtlas.016
+    second: {fileID: 2100000, guid: b1d5fe517c57f734bb326771679768bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_LeafAtlas.018
+    second: {fileID: 2100000, guid: 6ad2e2c8fd9f3ea44a89d9a362252da1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_LeafAtlas.019
+    second: {fileID: 2100000, guid: 781351d736b115549865125fa5c8a294, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_LeafAtlas.020
+    second: {fileID: 2100000, guid: b17c5d18261149446869d232c79d4b91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_MetalPaintBG.001
+    second: {fileID: 2100000, guid: abe79af203bda144dbd122d74dcc3acf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_MetalPaintBG.002
+    second: {fileID: 2100000, guid: dc7fa0999311fe545a0d42fa88ec9f64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_MetalPaintBG.003
+    second: {fileID: 2100000, guid: 0598f668e89b8724d920721a43afca35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_MetalPaintBG.004
+    second: {fileID: 2100000, guid: 11d41f9e9ce4a6f4faeab876db16ccbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_MetalPaintBG.006
+    second: {fileID: 2100000, guid: 3f61e56890bc88742babf01359ac9596, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_MetalPaintBG.007
+    second: {fileID: 2100000, guid: 5d351213e2707174f8c7e9da21e5f452, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_MetalPaintBG.008
+    second: {fileID: 2100000, guid: 13827909dc8e8ad4da5765634c0d67e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_MetalPaintGrayA
+    second: {fileID: 2100000, guid: 422a5c0eb8fbcc0428b261e895df3523, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_MetalPaintGrayA.001
+    second: {fileID: 2100000, guid: d97ee3fa86a0f8c4eaa03f01aa62de40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_MetalPaintGrayA.002
+    second: {fileID: 2100000, guid: c301922b58b45ee47bd224f460bc2ac8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_MetalPaintGrayA.003
+    second: {fileID: 2100000, guid: bdefdd78bb02c034abb5b9c0f664dc47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_MetalPaintGrayA.004
+    second: {fileID: 2100000, guid: 54fd0407ff8708f44bcdf1c218935576, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_MetalPaintGrayA.005
+    second: {fileID: 2100000, guid: 2d5acdb5df8ac8c47a5813d203df6f99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_MetalPaintGreen
+    second: {fileID: 2100000, guid: dc0aa141ea6c2394a82f5d590c89ae09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_MetalPaintRed
+    second: {fileID: 2100000, guid: 3a5be82fd6b095a4bbc7ea923e696ee8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_MetalPaintWhite
+    second: {fileID: 2100000, guid: 52ed26960dd411d45a216432e051023f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_MetalPaintWhite.001
+    second: {fileID: 2100000, guid: 65d011bb5adf6f84c944d84b09d3a952, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_MetalPaintWhite.002
+    second: {fileID: 2100000, guid: 5d7a28f1b651d58499292294c912d311, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_MetalPaintWhite.003
+    second: {fileID: 2100000, guid: 49981ed42ef6ea64394c63463b446c33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_MetalPaintWhite.004
+    second: {fileID: 2100000, guid: 7ed9ee2a65038c3458ee5898375f178a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_MetalPaintYellow
+    second: {fileID: 2100000, guid: 4085c99a1c92ff240a5b140b475be939, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_MetalPaintYellow.001
+    second: {fileID: 2100000, guid: 2e8a05401dc31d340b230f4d831107ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_MetalPaintYellow.002
+    second: {fileID: 2100000, guid: f258d9401ce3cf748b5b92432617c46c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_PlasticBGR
+    second: {fileID: 2100000, guid: d5c1accc8b04204418aaecdf29f73ecd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_PlasticBGR.001
+    second: {fileID: 2100000, guid: 9ecdb6e1280ba5c47969618a8f0fa72d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_PlasticBGR.002
+    second: {fileID: 2100000, guid: 92a777eb248ff14468a595a2094adc70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_PlasticBGR.003
+    second: {fileID: 2100000, guid: 254378098d7a0fa40927a31b8e3d3967, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_PlasticBGR.004
+    second: {fileID: 2100000, guid: 747cca2403af5f4409f83aa2240fff70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_PlasticBWY
+    second: {fileID: 2100000, guid: fba00dfe244f5ea41918a3cbdd161a56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_PlasticBWY.001
+    second: {fileID: 2100000, guid: 27403f27ca41b954e924c1d8b6cdea0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_PlasticBWY.002
+    second: {fileID: 2100000, guid: 5e373106f17c41641a03e1af1a6c6dd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_PlasticBWY.003
+    second: {fileID: 2100000, guid: b2938ce1c872743459e8da0d53e49676, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_PlasticBWY.005
+    second: {fileID: 2100000, guid: 2b4ead8ecc0a3304dac9f46f0c2868ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_PlasticBWY.006
+    second: {fileID: 2100000, guid: 8da7064056f47a3438447831c8fe4af7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_PlasticBWY.007
+    second: {fileID: 2100000, guid: 5f9b5438288a9c94b8f6e6040f029413, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_PropAtlas
+    second: {fileID: 2100000, guid: 533b76e5de70f7d46930f3a784f288ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_PropAtlas.001
+    second: {fileID: 2100000, guid: 6191eb1d651d61844b0ea54eb240084e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_PropAtlas.002
+    second: {fileID: 2100000, guid: 68216acbba095af4b85867f56aac9b38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_PropAtlas.003
+    second: {fileID: 2100000, guid: 995a93532d523384eb128d85b516e1fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_PropAtlas.004
+    second: {fileID: 2100000, guid: 0dcdc27abcd5ac1499a5ef9f18e75825, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_PropAtlas.005
+    second: {fileID: 2100000, guid: 169cca60f1c63ae4b8436c280a695e47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_PropAtlas.006
+    second: {fileID: 2100000, guid: 161af64feed8c1c43b16a59f6358b918, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_PropAtlas.007
+    second: {fileID: 2100000, guid: 438d4378a11fb0141870fc3fd78a3a97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_PropAtlas.008
+    second: {fileID: 2100000, guid: 1d1b3ca72842aeb4e9cf1a51d4c0bd8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_PropAtlas.009
+    second: {fileID: 2100000, guid: 3a0c28e1e9696644ebd0a427efccb79b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_PropAtlas.010
+    second: {fileID: 2100000, guid: b164e61c321907b4c85cf6b4219e794d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_RubberBlack.001
+    second: {fileID: 2100000, guid: ab365df1b96fb044a8ad065e4761af83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_RubberBlack.002
+    second: {fileID: 2100000, guid: 9072d77732093bb46ac3dfc6a33d15c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_RubberBlack.003
+    second: {fileID: 2100000, guid: 7c2a013c7150a844fa43219a2c40dd2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_RubberBlack.004
+    second: {fileID: 2100000, guid: 2252d63f87854764c9540789f2111cf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_RubberBlack.005
+    second: {fileID: 2100000, guid: e26dde0951555cc428f6f5efbfbb4ae3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_RubberBlack.006
+    second: {fileID: 2100000, guid: 1ab75bc9619257e40b519cf4dc773fb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Sidewalk
+    second: {fileID: 2100000, guid: ad3223ba4ec9a6844b5d37d325d7866c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Sidewalk.001
+    second: {fileID: 2100000, guid: 8b74c5814cb538e4b96d7d2b93937abe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Sidewalk.002
+    second: {fileID: 2100000, guid: 28707a6ac48ea74499f46cdbbf697847, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SolarPanels
+    second: {fileID: 2100000, guid: a8af566df54d5ff4c96e3ba1940b67ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SolarPanels.001
+    second: {fileID: 2100000, guid: 06ef695e241d7aa4d97ff0aabcca3b47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelPaintBlackA.001
+    second: {fileID: 2100000, guid: 736aaad5348d5d94e81c997d9d6280d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelPaintBlackA.002
+    second: {fileID: 2100000, guid: 140ef88fde205224abe8841776ba63ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelPaintBlackA.003
+    second: {fileID: 2100000, guid: bb89214a811d0cb4bb55397a8c69ec96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelPaintBlackA.004
+    second: {fileID: 2100000, guid: 87934a12acca3734f82fff9f68be1e17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelPaintBlackA.005
+    second: {fileID: 2100000, guid: 827ce38dd3f1851439f417c162241735, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelPaintBlackA.006
+    second: {fileID: 2100000, guid: 596f33db4574f9c479944a5db0cbbd0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelPaintBlackA.007
+    second: {fileID: 2100000, guid: a32de305c9d271843be127e889c5b1f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelPaintBlackA.008
+    second: {fileID: 2100000, guid: 4c570b1ccf347a24988933953d7c4216, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelPaintBlackA.009
+    second: {fileID: 2100000, guid: 49bd2f64fc3417445bd461c94625b01e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelPaintBlackA.011
+    second: {fileID: 2100000, guid: c95ff6ab21f217e439adf79ec2baf4ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelPaintBlackA.012
+    second: {fileID: 2100000, guid: fc06ea39b79b1154784548edbd9fc8e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelPaintBlackA.013
+    second: {fileID: 2100000, guid: 53338bd572941b948ac373f37cf7e1cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelPaintBlackA.014
+    second: {fileID: 2100000, guid: a9bdbec6eaddc14429938a991bb1c97d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelPaintBlackA.018
+    second: {fileID: 2100000, guid: fc7f8811c7c1502409818230f9af8fc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelPaintBlackA.019
+    second: {fileID: 2100000, guid: 552bf1f0bda46b446b58a67dc1b76426, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughBlackT
+    second: {fileID: 2100000, guid: 8431bbeb1ddfdb04eb65fb1c827baa0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughBlackT.001
+    second: {fileID: 2100000, guid: 4951eb58f3261a7429d5f8f6060b3f0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughBlackT.002
+    second: {fileID: 2100000, guid: 3267887c764bc164984f22e9e9c1bb80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughBlackT.003
+    second: {fileID: 2100000, guid: 7818f43c8520d8d43afb13be33dbd9a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughBlackT.004
+    second: {fileID: 2100000, guid: 4ed7b80db3ced9d4699d120a605f212a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughBlackT.005
+    second: {fileID: 2100000, guid: 2b990a1f5ffd40242b958276c7a516d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughBlackT.006
+    second: {fileID: 2100000, guid: 2a21c9b48a0f33b4284ca396d4e16bfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughBlackT.007
+    second: {fileID: 2100000, guid: d98df63e321244d4983481631db4d309, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughBlackT.008
+    second: {fileID: 2100000, guid: fe014d68eafe03c43a07bb64f7b32ab9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughBlackT.009
+    second: {fileID: 2100000, guid: 1df9d44b46998844d85d19866eb4ae96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughBlackT.010
+    second: {fileID: 2100000, guid: e9334b48bff43c74f96e6ea08ad25d5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughBlackT.011
+    second: {fileID: 2100000, guid: 4f46d40969db4ab489b1c3493c046c9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughBlackT.012
+    second: {fileID: 2100000, guid: 1cbd9fc3d0003e044b2bf59c456927dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughBlackT.014
+    second: {fileID: 2100000, guid: 03fddd5f4c4c3364cbcdaa2482f98022, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughBlackT.015
+    second: {fileID: 2100000, guid: 2021c41a61c3c7241a063b2e612cdda5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughBlackT.016
+    second: {fileID: 2100000, guid: a9082b0a4c2e8c04da4cc3080f8714d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughBlackT.017
+    second: {fileID: 2100000, guid: 9a174eaa2cb6e6a459432c06cdcb143d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughBlackT.019
+    second: {fileID: 2100000, guid: 97b7274eda155a142817b87183d60b78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughBlackT.020
+    second: {fileID: 2100000, guid: ca80c0ffa6ebee942ad20cb053785271, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughGray
+    second: {fileID: 2100000, guid: cbf4a0b832a6c7b48ab66b8605abd81b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughGray.001
+    second: {fileID: 2100000, guid: db7e6dd095529604fa6f5e5f24a1df27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughGray.002
+    second: {fileID: 2100000, guid: c539211e11098f44f8eaec1af193c9dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughGray.003
+    second: {fileID: 2100000, guid: 2dece1606f1ca2f4088bd22937180668, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughGray.004
+    second: {fileID: 2100000, guid: 720a7e7334453634983cabc3a370eaab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughGray.005
+    second: {fileID: 2100000, guid: 94e2b39e2baff1544b26f6bd0d7f0e96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughGray.006
+    second: {fileID: 2100000, guid: cb325a946ecba744b86253dfa7dcded0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughGray.007
+    second: {fileID: 2100000, guid: 478ff636e4b0def4781e6ad14f109723, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughGray.008
+    second: {fileID: 2100000, guid: 1d607bf741f366042a4062f39098b88a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughGray.009
+    second: {fileID: 2100000, guid: 245c387160ad69a41972513e1f4275f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughGray.010
+    second: {fileID: 2100000, guid: 3ba66b9e2b3f79641948d7a239d1cdf6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughGray.011
+    second: {fileID: 2100000, guid: 2f9adbb1b7632524db90d7d1936f40bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelRoughGray.012
+    second: {fileID: 2100000, guid: 0c67c061edc08464ebd42d773bdeaa5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelSatin
+    second: {fileID: 2100000, guid: 137806034915bd34192e18832eaf7717, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelSatin.001
+    second: {fileID: 2100000, guid: 49a325adf87c7004496da478adfa3b0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelSatin.002
+    second: {fileID: 2100000, guid: d20a6cb7a31e2d84f8b3ee39fb4e20d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelSatin.003
+    second: {fileID: 2100000, guid: 437198ba52db62343b7bbdb7054edba6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelSatin.004
+    second: {fileID: 2100000, guid: 274f57d5714b27540847390782103846, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelSatin.005
+    second: {fileID: 2100000, guid: 51bf9ae828d129b469329c3c6c424b2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelSatin.006
+    second: {fileID: 2100000, guid: 8390d0d6536d5f54cacabead44ea3ec2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelSatin.007
+    second: {fileID: 2100000, guid: 8408d624005936b44a74b749bf4c9666, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SteelSatin.008
+    second: {fileID: 2100000, guid: ebd94b1c579e16e489108d2d9af8e6f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_StreetTiles
+    second: {fileID: 2100000, guid: ff6b9ae10e976944094f6dc20603c06c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SubwayTiles
+    second: {fileID: 2100000, guid: 704fca6dd1795b34e882066e39165359, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_SubwayTilesB
+    second: {fileID: 2100000, guid: a4841d6b928b4e24984754214d6edd7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_TentsA
+    second: {fileID: 2100000, guid: 34575de4b39eac44aaee75d6af3095f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Trash
+    second: {fileID: 2100000, guid: cf14a075c985b5d498b69fc7c5b9b86c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Trash.001
+    second: {fileID: 2100000, guid: 22dd7c1a776137245a30acfc800f1728, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Trash.002
+    second: {fileID: 2100000, guid: db86ea0eff6c50e48bfd795cd24d58f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Trash.003
+    second: {fileID: 2100000, guid: fb9d114a749619a479c14f166d8e6a5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Trash.004
+    second: {fileID: 2100000, guid: d15aac9d6bd125a4e90e7b0983d52e90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Trash.005
+    second: {fileID: 2100000, guid: 3be29b841342ae34daa78b3bececcac3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Trash.006
+    second: {fileID: 2100000, guid: 0df1fd034787f49438baf3cc99e63a1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Trash.007
+    second: {fileID: 2100000, guid: 5bbf2ae4eab06e446a82461c044399cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_Trash.008
+    second: {fileID: 2100000, guid: f167a48491728394d953d542cd2f339b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_TreeWalnutBark
+    second: {fileID: 2100000, guid: 914b592e9d8e327449c347fd31a8ceb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_TreeWalnutBark.001
+    second: {fileID: 2100000, guid: fcf84ba88b00ecd4aa32787d0111bf6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_TreeWalnutBark.002
+    second: {fileID: 2100000, guid: 2e199f62d7e7b5743a341ab425a0b56d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_TreeWalnutBark.003
+    second: {fileID: 2100000, guid: aaac4c0a7fe420949af8266db5325555, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_TreeWalnutBark.004
+    second: {fileID: 2100000, guid: beb5094f19cb4e24a9dbb5942e73373a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_TreeWalnutBark.005
+    second: {fileID: 2100000, guid: 99dadb4717a5586468f817508da66bc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_TreeWalnutBark.006
+    second: {fileID: 2100000, guid: 6a260cd81bf8b6f4a80802966498dfff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_TreeWalnutBark.007
+    second: {fileID: 2100000, guid: f985377ca2b88214e875716046327bd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_TreeWalnutBark.008
+    second: {fileID: 2100000, guid: aa4956b47047d1a4683f80ba0519bb9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_TreeWalnutBark.009
+    second: {fileID: 2100000, guid: 7666bdcfbcb5a24418d7a8684ca18b16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_TreeWalnutBark.010
+    second: {fileID: 2100000, guid: e2b21f3afc9854b45a2be37ea4472cd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_TreeWalnutBark.011
+    second: {fileID: 2100000, guid: 43eb7ad5d8c5113429aa68cac9877ee0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_TreeWalnutBark.013
+    second: {fileID: 2100000, guid: 65023479d7a7bc04e94edcd401d2cba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_TreeWalnutBark.014
+    second: {fileID: 2100000, guid: b6e3629527ce9364ab705a5d805279bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_WoodOrange
+    second: {fileID: 2100000, guid: 7560441761496c747aa8936f78929943, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_WoodOrange.001
+    second: {fileID: 2100000, guid: d664abd443759424b92093e470d3255b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_WoodOrange.002
+    second: {fileID: 2100000, guid: ff37ad6faaf2d9346923ca12db489fb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CTS_WoodOrange.003
+    second: {fileID: 2100000, guid: d815c65ae6756b346b3bf91b599a4670, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

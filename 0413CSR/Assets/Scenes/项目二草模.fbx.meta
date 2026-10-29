@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: 8f5767a9379632a4092eff0f32bcb5d9
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly
+    second: {fileID: 2100000, guid: 20f93f135ad1d3c41a40c58c75d350ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.001
+    second: {fileID: 2100000, guid: 78e0258f1288fe249a97b75c7504a315, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.002
+    second: {fileID: 2100000, guid: bc9db998b31a89744b057e60edb5dc4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.003
+    second: {fileID: 2100000, guid: ef5754e4c4602814ea751545515ab243, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.004
+    second: {fileID: 2100000, guid: 32d07898a2cfa3c4d896999371d798dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.005
+    second: {fileID: 2100000, guid: fa648fa65688fad47af8e96550f0acbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.006
+    second: {fileID: 2100000, guid: abaedc6400e19c04cb93b3a7feaf39dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.008
+    second: {fileID: 2100000, guid: cb5d1bf5008ac4244bb19ff453bd6144, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.009
+    second: {fileID: 2100000, guid: 44dbf7ca0b33de4408a3ca9e0dcecaf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.010
+    second: {fileID: 2100000, guid: ab39a8482ce451f4e90bc43a91373a60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.011
+    second: {fileID: 2100000, guid: bf2e6908bb059ea4eaccd308dba0e431, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.012
+    second: {fileID: 2100000, guid: 5a808b945ab21b04a927f8336b4d6919, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.013
+    second: {fileID: 2100000, guid: dc4f075e3711d6246a135364e94a0c61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.014
+    second: {fileID: 2100000, guid: a2eed9c427b66a94db1c90cb43482839, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.015
+    second: {fileID: 2100000, guid: 0ba87370b29cf4547b9f65f56f52fde4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.016
+    second: {fileID: 2100000, guid: ccf232346bc7a4a48bcb1ad431567904, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.017
+    second: {fileID: 2100000, guid: 6cadcb389b5419942b32013e7753b368, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.018
+    second: {fileID: 2100000, guid: e06723306ddae5e4d9014e33237d14a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.019
+    second: {fileID: 2100000, guid: 540695b8abbfad047955089343602197, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.020
+    second: {fileID: 2100000, guid: ef45c8464e74a554db5771abf92d0c91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.021
+    second: {fileID: 2100000, guid: 259ce01eca44b05459a2e82233819e72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.022
+    second: {fileID: 2100000, guid: 8d4c0e267b2e9d94d9f34c1981d5e245, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.023
+    second: {fileID: 2100000, guid: 8d7d5069b7d5f564dab94b5ef580695a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.024
+    second: {fileID: 2100000, guid: 6b7a032b695b2af4db992b4d560f7a42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.025
+    second: {fileID: 2100000, guid: 2c622b60a5795014fbb3bf1c95972c12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.026
+    second: {fileID: 2100000, guid: 743217fd3c23c0346b8bd1e7ee7a6ee0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.028
+    second: {fileID: 2100000, guid: 40d3368d2ab112b448a188e30664efa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.031
+    second: {fileID: 2100000, guid: 7d2c86ec9a5a23c48a002e6465b5f6a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.032
+    second: {fileID: 2100000, guid: 6397a8419e8500b48baec13ce864d5dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.034
+    second: {fileID: 2100000, guid: 68caf033f4d686d4c8ac9ee668695290, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_low_poly.035
+    second: {fileID: 2100000, guid: b5aab14e8a77962409c0db3719c9781d, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
